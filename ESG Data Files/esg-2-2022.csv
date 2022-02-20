@@ -1,5 +1,4 @@
-socialScore,peerCount,governancePercentile,percentile,totalEsg,pesticides,smallArms,coal,gambling,governanceScore,socialPercentile,militaryContract,peerGroup,tobacco,catholic,environmentPercentile,nuclear,furLeather,animalTesting,adult,environmentScore,gmo,esgPerformance,controversialWeapons,highestControversy,palmOil,alcoholic,Stock Ticker,Sector,Name
-6.86,55,,12.87,16.27,False,False,False,False,8.76,,False,Technology Hardware,False,False,,False,False,False,False,0.65,False,UNDER_PERF,False,3,False,False,AAPL,Information Technology,Apple
+socialScore,peerCount,governancePercentile,percentile,totalEsg,pesticides,smallArms,coal,gambling,governanceScore,socialPercentile,militaryContract,peerGroup,tobacco,catholic,environmentPercentile,nuclear,furLeather,animalTesting,adult,environmentScore,gmo,esgPerformance,controversialWeapons,highestControversy,palmOil,alcoholic,Stock Ticker,Sector,Name6.86,55,,12.87,16.27,False,False,False,False,8.76,,False,Technology Hardware,False,False,,False,False,False,False,0.65,False,UNDER_PERF,False,3,False,False,AAPL,Information Technology,Apple
 7.23,39,,64.23,30.84,False,False,False,False,4.88,,False,Refiners & Pipelines,False,False,,False,False,False,False,18.74,False,OUT_PERF,False,3,False,False,VLO,Energy,Valero Energy
 13.15,68,,31.43,22.17,False,False,False,False,6.76,,False,Telecommunication Services,False,False,,False,False,False,False,2.27,False,AVG_PERF,False,3,False,False,T,Communication Services,AT&T
 10.54,66,,83.97,37.86,False,False,False,False,8.14,,False,Oil & Gas Producers,False,False,,False,False,True,False,19.19,False,OUT_PERF,False,3,False,False,XOM,Energy,ExxonMobil
@@ -35,3 +34,37 @@ socialScore,peerCount,governancePercentile,percentile,totalEsg,pesticides,smallA
 5.52,55,,29.39,21.6,False,False,False,False,8.04,,True,Technology Hardware,False,False,,False,False,False,False,8.04,False,AVG_PERF,False,2,False,False,APH,Information Technology,Amphenol
 8.83,39,,15.83,17.36,False,False,False,False,8.4,,False,Media,False,False,,False,False,False,False,0.13,False,UNDER_PERF,False,1,False,False,DISCA,Communication Services,Discovery (Series A)
 5.41,89,,4.85,12.41,False,False,False,False,5.39,,False,Diversified Financials,False,False,,False,False,False,False,1.61,False,UNDER_PERF,False,1,False,False,MSCI,Financials,MSCI
+10.73,105,,18.83,18.34,False,False,False,False,6.41,,False,Software & Services,False,False,,False,False,False,False,1.19,False,UNDER_PERF,False,2,False,False,FISV,Information Technology,Fiserv
+13.46,89,,35.37,23.22,False,False,False,False,9.71,,False,Diversified Financials,False,False,,False,False,False,False,0.05,False,AVG_PERF,False,4,False,False,COF,Financials,Capital One Financial
+6.99,19,,14.32,16.8,False,False,False,False,7.1,,False,Textiles & Apparel,False,False,,False,False,False,False,2.71,False,UNDER_PERF,False,3,False,False,NKE,Consumer Discretionary,Nike
+14.37,175,,50.84,27.27,False,False,False,False,11.28,,False,Banks,False,False,,False,False,False,False,1.62,False,AVG_PERF,False,3,False,False,BAC,Financials,Bank of America
+9.06,55,,17.2,17.8,False,False,False,False,8.34,,False,Technology Hardware,False,False,,False,False,False,False,0.4,False,UNDER_PERF,False,1,False,False,ANET,Information Technology,Arista Networks
+14.08,54,,68.72,32.18,False,False,False,False,7.7,,False,Machinery,False,False,,False,False,False,False,10.41,False,OUT_PERF,False,1,False,False,WAB,Industrials,Wabtec
+8.02,94,,33.36,22.68,False,False,False,False,4.74,,False,Food Products,False,False,,False,False,True,False,9.93,False,AVG_PERF,False,2,False,False,CPB,Consumer Staples,Campbell Soup
+4.34,105,,4.3,12.42,False,False,False,False,5.82,,False,Real Estate,False,False,,False,False,False,False,2.27,False,UNDER_PERF,False,1,False,False,FRT,Real Estate,Federal Realty Investment Trust
+8.48,39,,38.55,24.08,False,False,False,False,3.41,,False,Refiners & Pipelines,False,False,,False,False,False,False,12.19,False,AVG_PERF,False,1,False,False,OKE,Energy,Oneok
+9.63,107,,74.51,34.08,False,False,True,False,7.06,,False,Utilities,False,False,,False,False,False,False,17.39,False,OUT_PERF,False,3,False,False,FE,Utilities,FirstEnergy
+12.31,46,0,58.47,29.22,False,False,False,False,5.38,0,False,Transportation,False,False,0,False,False,False,False,11.53,False,,False,2,False,False,AAL,Industrials,American Airlines Group
+9.51,31,0,71.11,32.93,False,False,False,False,8.5,0,False,Semiconductors,False,False,0,False,False,False,False,14.92,False,LEAD_PERF,False,0,False,False,SWKS,Information Technology,Skyworks Solutions
+13.61,46,0,62.02,30.18,False,False,False,False,5.29,0,False,Transportation,False,False,0,False,False,False,False,11.28,False,LEAD_PERF,False,2,False,False,UAL,Industrials,United Airlines
+9.81,105,0,16.48,17.59,False,False,False,False,6.61,0,False,Software & Services,False,False,0,False,False,False,False,1.17,False,LAG_PERF,False,0,False,False,PAYX,Information Technology,Paychex
+4.76,31,,14.61,16.91,False,False,False,False,5.02,,False,Semiconductors,False,False,,False,False,False,False,7.13,False,UNDER_PERF,False,0,False,False,KLAC,Information Technology,KLA Corporation
+5.3,19,,11.85,15.87,False,False,False,False,4.16,,False,Consumer Durables,False,True,,False,False,False,False,6.41,False,UNDER_PERF,False,2,False,False,NWL,Consumer Discretionary,Newell Brands
+14.37,32,,28.02,21.21,False,False,False,False,6.79,,False,Commercial Services,False,False,,False,False,False,False,0.05,False,AVG_PERF,False,2,False,False,INFO,Industrials,IHS Markit
+12.53,58,,29.27,21.55,False,False,False,False,8.94,,False,Healthcare,False,False,,False,False,True,False,0.09,False,AVG_PERF,False,2,False,False,DVA,Health Care,DaVita
+3.29,55,,1.74,9.14,False,False,False,False,3.45,,False,Technology Hardware,False,False,,False,False,False,False,2.4,False,LAG_PERF,False,0,False,False,CDW,Information Technology,CDW
+7.02,105,,8.31,14.24,False,False,False,False,5.93,,False,Software & Services,False,False,,False,False,False,False,1.29,False,UNDER_PERF,False,3,False,False,WU,Information Technology,Western Union
+6.58,57,,7.26,13.73,False,False,False,False,4.26,,False,Retailing,False,False,,False,False,False,False,2.89,False,UNDER_PERF,False,2,False,False,TSCO,Consumer Discretionary,Tractor Supply Company
+7.98,89,0,13.7,16.56,False,False,False,False,6.9,0,False,Diversified Financials,False,False,0,False,False,False,False,1.68,False,LAG_PERF,False,2,False,False,ICE,Financials,Intercontinental Exchange
+8.84,57,0,12.51,16.14,False,False,False,False,5.68,0,False,Retailing,False,False,0,False,False,False,False,1.62,False,LAG_PERF,False,2,False,False,ROST,Consumer Discretionary,Ross Stores
+7.23,57,0,12.3,16.07,False,False,False,False,5.01,0,False,Retailing,False,False,0,False,False,False,False,3.83,False,LAG_PERF,False,2,False,False,ULTA,Consumer Discretionary,Ulta Beauty
+14.37,175,0,50.84,27.27,False,False,False,False,11.28,0,False,Banks,False,False,0,False,False,False,False,1.62,False,,False,3,False,False,BAC,Financials,Bank of America
+9.18,97,0,30.06,21.79,False,False,False,False,12.49,0,False,Insurance,False,False,0,False,False,False,False,0.13,False,,False,2,False,False,AJG,Financials,Arthur J. Gallagher & Co.
+9.17,57,0,5.74,12.97,False,False,False,False,3.7,0,False,Retailing,False,False,0,False,False,False,False,0.1,False,LAG_PERF,False,2,False,False,AAP,Consumer Discretionary,Advance Auto Parts
+11.5,89,0,19.89,18.7,False,False,False,False,7.1,0,False,Diversified Financials,False,False,0,False,False,False,False,0.11,False,LAG_PERF,False,1,False,False,SYF,Financials,Synchrony Financial
+13.39,58,0,36,23.39,False,False,False,False,7.66,0,False,Healthcare,False,False,0,False,False,True,False,2.34,False,,False,3,False,False,MDT,Health Care,Medtronic
+12.87,105,0,31.5,22.19,False,False,False,False,6.28,0,False,Software & Services,False,False,0,False,False,False,False,3.04,False,,False,1,False,False,VRSN,Information Technology,Verisign
+15.52,58,0,48.22,26.54,False,False,False,False,7.72,0,False,Healthcare,False,True,0,False,False,False,False,3.29,False,,False,2,False,False,HCA,Health Care,HCA Healthcare
+9.83,175,0,37.57,23.82,False,False,False,False,12.26,0,False,Banks,False,False,0,False,False,False,False,1.74,False,,False,1,False,False,FRC,Financials,First Republic Bank
+4.25,108,0,5.78,12.98,False,False,False,False,5.97,0,False,Real Estate,False,False,0,False,False,False,False,2.75,False,LAG_PERF,False,1,False,False,VNO,Real Estate,Vornado Realty Trust
+8.84,19,0,21.95,19.37,False,False,False,False,4.66,0,False,Consumer Durables,False,False,0,False,False,False,False,5.87,False,LAG_PERF,False,2,False,False,GRMN,Consumer Discretionary,Garmin
