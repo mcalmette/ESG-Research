@@ -1,1 +1,439 @@
-adult,militaryContract,coal,socialPercentile,furLeather,environmentPercentile,socialScore,esgPerformance,environmentScore,totalEsg,governanceScore,gmo,catholic,controversialWeapons,nuclear,animalTesting,peerCount,highestControversy,peerGroup,percentile,gambling,alcoholic,governancePercentile,pesticides,palmOil,tobacco,smallArms,Stock Ticker,Sector,Name
+adult,militaryContract,coal,socialPercentile,furLeather,environmentPercentile,socialScore,esgPerformance,environmentScore,totalEsg,governanceScore,gmo,catholic,controversialWeapons,nuclear,animalTesting,peerCount,highestControversy,peerGroup,percentile,gambling,alcoholic,governancePercentile,pesticides,palmOil,tobacco,smallArms,Stock Ticker,Sector,NameFalse,True,False,,False,,15.04,LEAD_PERF,14.09,40.71,11.58,False,True,False,False,True,35,3,Industrial Conglomerates,88.57,False,False,,False,False,False,False,GE,Industrials,General Electric
+False,True,False,,False,,7.53,AVG_PERF,9.25,23.82,7.03,False,False,False,False,False,31,0,Semiconductors,37.54,False,False,,False,False,False,False,ADI,Information Technology,Analog Devices
+False,False,False,,False,,3.7,UNDER_PERF,3.23,13.02,6.1,False,False,False,False,False,108,0,Real Estate,5.82,False,False,,False,False,False,False,DLR,Real Estate,Digital Realty Trust
+False,False,False,,False,,14.93,AVG_PERF,0.33,22.47,7.21,False,True,False,False,True,83,2,Pharmaceuticals,32.58,False,False,,False,False,False,False,BMY,Health Care,Bristol Myers Squibb
+False,False,False,,False,,7.12,AVG_PERF,3.6,20.74,10.02,False,False,False,False,True,58,0,Healthcare,26.54,False,False,,False,False,False,False,IDXX,Health Care,Idexx Laboratories
+False,False,False,,False,,5.63,UNDER_PERF,4.36,16.88,6.9,False,False,False,False,False,31,3,Semiconductors,14.57,False,False,,False,False,False,False,INTC,Information Technology,Intel
+False,False,False,0,False,0,3.29,,2.4,9.14,3.45,False,False,False,False,False,55,0,Technology Hardware,1.74,False,False,0,False,False,False,False,CDW,Information Technology,CDW
+False,False,False,0,False,0,9.41,,12.91,28.98,6.66,False,False,False,False,True,77,2,Chemicals,57.44,False,False,0,False,False,False,False,SHW,Materials,Sherwin-Williams
+False,False,True,0,False,0,10.29,,13.86,29.28,5.13,False,False,False,False,False,107,3,Utilities,58.63,False,False,0,False,False,False,False,NI,Utilities,NiSource
+False,False,False,0,False,0,7.54,,2.8,22.63,12.29,False,False,False,False,False,89,2,Diversified Financials,33.18,False,False,0,False,False,False,False,AMP,Financials,Ameriprise Financial
+False,False,False,0,False,0,3.66,,13.9,24.9,7.34,False,False,False,False,False,14,0,Building Products,41.83,False,False,0,False,False,False,False,FBHS,Industrials,Fortune Brands Home & Security
+False,False,False,0,False,0,4.52,LAG_PERF,5.11,14.9,5.27,False,False,False,False,False,31,1,Semiconductors,9.5,False,False,0,False,False,False,False,LRCX,Information Technology,Lam Research
+False,False,False,0,False,0,11.52,LAG_PERF,0.03,17.44,5.89,False,True,False,False,False,58,3,Healthcare,16.11,False,False,0,False,False,False,False,UNH,Health Care,UnitedHealth Group
+False,False,False,0,False,0,7.59,,2.04,24.31,14.67,False,False,False,False,False,97,1,Insurance,39.45,False,False,0,False,False,False,False,WRB,Financials,W. R. Berkley Corporation
+False,False,False,0,False,0,12.77,,2.2,26.16,11.19,False,False,False,False,False,175,1,Banks,46.81,False,False,0,False,False,False,False,MTB,Financials,M&T Bank
+False,False,False,0,False,0,5.72,LAG_PERF,0.08,13.25,7.45,False,False,False,False,False,39,2,Media,6.3,False,False,0,False,False,False,False,NWSA,Communication Services,News Corp (Class A)
+False,False,False,0,False,0,9.33,,5.19,20.29,5.77,False,False,False,False,False,35,3,Food Retailers,25.07,False,False,0,False,False,False,False,KR,Consumer Staples,Kroger
+False,False,False,0,False,0,9.56,,10.54,25.02,4.91,False,False,False,False,False,94,3,Food Products,42.21,False,False,0,False,False,False,False,HSY,Consumer Staples,The Hershey Company
+False,False,False,0,False,0,7.33,LAG_PERF,1.05,17.37,8.99,False,False,False,False,False,97,2,Insurance,15.87,False,False,0,False,False,False,False,PRU,Financials,Prudential Financial
+False,False,False,0,False,0,10.26,LAG_PERF,1.07,17.85,6.52,False,False,False,False,False,105,2,Software & Services,17.37,False,False,0,False,False,False,False,FLT,Information Technology,Fleetcor
+False,False,False,,False,,13.61,OUT_PERF,11.28,30.18,5.29,False,False,False,False,False,46,2,Transportation,62.02,False,False,,False,False,False,False,UAL,Industrials,United Airlines
+False,False,False,,False,,13.39,AVG_PERF,2.34,23.39,7.66,False,False,False,False,True,58,3,Healthcare,36,False,False,,False,False,False,False,MDT,Health Care,Medtronic
+False,False,False,,False,,5.98,UNDER_PERF,3.41,14.52,5.13,False,False,False,False,False,108,0,Real Estate,8.81,False,False,,False,False,False,False,SBAC,Real Estate,SBA Communications
+False,False,False,,False,,5.02,AVG_PERF,8.8,20.28,6.47,False,False,False,False,False,31,2,Semiconductors,25.02,False,False,,False,False,False,False,TXN,Information Technology,Texas Instruments
+False,False,False,,False,,7.26,UNDER_PERF,2.22,14.33,4.85,False,False,False,False,False,57,2,Retailing,8.48,False,False,,False,False,False,False,BBY,Consumer Discretionary,Best Buy
+False,False,False,,False,,13.7,AVG_PERF,9.12,29.4,6.59,False,False,False,False,False,54,1,Machinery,59.05,False,False,,False,False,False,False,PNR,Industrials,Pentair
+False,False,False,,False,,14.08,OUT_PERF,10.41,32.18,7.7,False,False,False,False,False,54,1,Machinery,68.72,False,False,,False,False,False,False,WAB,Industrials,Wabtec
+False,False,False,,False,,12.04,LEAD_PERF,24.61,43.44,6.8,False,False,False,False,False,66,2,Oil & Gas Producers,92.58,False,False,,False,False,False,False,OXY,Energy,Occidental Petroleum
+False,False,False,,False,,12.77,AVG_PERF,1.66,27.77,13.34,False,False,False,False,False,175,4,Banks,52.91,False,False,,False,False,False,False,C,Financials,Citigroup
+False,False,False,,False,,14.25,OUT_PERF,5.95,30.03,9.84,False,False,False,False,False,57,3,Retailing,61.58,False,False,,False,False,False,False,AMZN,Consumer Discretionary,Amazon
+False,False,False,,False,,3.72,UNDER_PERF,3.17,12.83,5.94,False,False,False,False,False,55,0,Technology Hardware,5.51,False,False,,False,False,False,False,TRMB,Information Technology,Trimble
+False,False,False,,False,,8.65,UNDER_PERF,0.34,15.33,6.34,False,True,False,False,True,83,1,Pharmaceuticals,10.48,False,False,,False,False,False,False,A,Health Care,Agilent Technologies
+False,False,True,,False,,7.63,AVG_PERF,15.74,29.05,5.69,False,False,False,True,False,107,2,Utilities,57.76,False,False,,False,False,False,False,AEE,Utilities,Ameren Corp
+False,False,False,,False,,8.02,AVG_PERF,9.93,22.68,4.74,False,False,False,False,True,94,2,Food Products,33.36,False,False,,False,False,False,False,CPB,Consumer Staples,Campbell Soup
+False,False,False,,False,,8.51,AVG_PERF,1.88,24.24,13.85,False,False,False,False,False,97,1,Insurance,39.23,False,False,,False,False,False,False,CINF,Financials,Cincinnati Financial
+False,False,False,,False,,14.45,AVG_PERF,8.96,28.74,5.32,False,False,False,False,False,94,2,Food Products,56.54,False,False,,False,False,False,False,MKC,Consumer Staples,McCormick & Company
+False,False,False,,False,,14.01,LEAD_PERF,23.39,46.68,9.28,False,False,False,False,False,66,2,Oil & Gas Producers,95.73,False,False,,False,False,False,False,CTRA,Energy,Coterra
+False,False,False,,False,,8.21,UNDER_PERF,1.24,18.68,9.24,False,False,False,False,False,175,2,Banks,19.85,False,False,,False,False,False,False,FITB,Financials,Fifth Third Bancorp
+False,False,False,,False,,6.35,UNDER_PERF,0.84,12.69,5.5,False,False,False,False,True,58,3,Healthcare,5.25,False,False,,False,False,False,False,ABC,Health Care,AmerisourceBergen
+False,False,False,,False,,7.98,UNDER_PERF,1.61,17.92,8.33,False,False,False,False,False,45,2,Consumer Services,17.6,True,False,,False,False,False,False,LVS,Consumer Discretionary,Las Vegas Sands
+False,False,False,,False,,7.79,UNDER_PERF,0.5,14.47,6.18,False,False,False,False,False,105,2,Software & Services,8.69,False,False,,False,False,False,False,ORCL,Information Technology,Oracle
+False,False,False,,False,,9.06,UNDER_PERF,0.4,17.8,8.34,False,False,False,False,False,55,1,Technology Hardware,17.2,False,False,,False,False,False,False,ANET,Information Technology,Arista Networks
+False,False,False,,False,,12.34,AVG_PERF,5.83,26.11,7.96,False,False,False,False,False,54,1,Machinery,46.63,False,False,,False,False,False,False,SWK,Industrials,Stanley Black & Decker
+False,False,False,,False,,8.89,UNDER_PERF,2.04,16.44,5.51,False,False,False,False,False,58,4,Healthcare,13.36,False,False,,False,False,False,False,MCK,Health Care,McKesson Corporation
+False,False,False,,False,,8.04,AVG_PERF,9.14,21.34,4.16,False,False,False,False,False,45,3,Consumer Services,28.51,False,False,,False,False,False,False,RCL,Consumer Discretionary,Royal Caribbean Group
+False,False,True,,False,,5.65,AVG_PERF,10.04,22.36,6.67,False,False,False,False,False,107,1,Utilities,32.15,False,False,,False,False,False,False,LNT,Utilities,Alliant Energy
+False,False,False,,False,,4.28,UNDER_PERF,2.75,12.22,5.2,False,True,False,False,False,108,0,Real Estate,4.52,False,False,,False,False,False,False,VTR,Real Estate,Ventas
+False,True,False,,False,,15.93,AVG_PERF,5.27,28.81,7.61,False,False,True,False,False,22,3,Aerospace & Defense,56.76,False,False,,False,False,False,False,LMT,Industrials,Lockheed Martin
+False,False,False,,False,,2.24,LAG_PERF,2.03,9.35,5.08,False,False,False,False,False,55,1,Technology Hardware,1.83,False,False,,False,False,False,False,KEYS,Information Technology,Keysight Technologies
+False,False,False,,False,,4.28,UNDER_PERF,3.81,13.94,5.86,False,False,False,False,False,108,1,Real Estate,7.74,False,False,,False,False,False,False,EXR,Real Estate,Extra Space Storage
+False,False,False,,False,,10.72,AVG_PERF,12.43,28.26,5.11,False,False,False,False,False,94,2,Food Products,54.63,False,False,,False,False,False,False,MNST,Consumer Staples,Monster Beverage
+False,False,False,,False,,11.57,AVG_PERF,1.83,20.21,6.8,False,False,False,False,False,32,0,Commercial Services,24.72,False,False,,False,False,False,False,ROL,Industrials,Rollins
+False,False,False,,False,,8.84,UNDER_PERF,1.62,16.14,5.68,False,False,False,False,False,57,2,Retailing,12.51,False,False,,False,False,False,False,ROST,Consumer Discretionary,Ross Stores
+False,False,False,,False,,12.44,OUT_PERF,12.36,30.97,6.17,False,False,False,False,False,94,2,Food Products,64.7,False,False,,False,False,False,False,SJM,Consumer Staples,JM Smucker
+False,False,False,,False,,12.04,AVG_PERF,4.93,23.68,6.72,False,False,False,False,False,68,2,Telecommunication Services,37,False,False,,False,False,False,False,LUMN,Communication Services,Lumen Technologies
+False,False,False,,False,,9.13,OUT_PERF,13.91,30.79,7.75,False,False,False,False,False,31,1,Semiconductors,64.08,False,False,,False,False,False,False,MCHP,Information Technology,Microchip Technology
+False,True,False,,False,,7.5,UNDER_PERF,5.8,19.36,6.06,False,False,False,False,False,54,2,Machinery,21.92,False,False,,False,False,False,False,CMI,Industrials,Cummins
+False,False,False,,False,,11.47,AVG_PERF,0.79,21.91,9.64,False,True,False,False,True,83,3,Pharmaceuticals,30.49,False,False,,False,False,False,False,MRK,Health Care,Merck & Co.
+False,False,False,,False,,10.16,AVG_PERF,2.33,24.03,11.54,False,False,False,False,False,89,2,Diversified Financials,38.34,False,False,,False,False,False,False,SCHW,Financials,Charles Schwab Corporation
+False,False,False,,False,,15.59,AVG_PERF,2.55,27.1,8.97,False,False,False,False,True,58,2,Healthcare,50.26,False,False,,False,False,False,False,BAX,Health Care,Baxter International
+False,False,False,,False,,9.87,AVG_PERF,0.7,20.28,9.71,False,False,False,False,False,89,1,Diversified Financials,25.01,False,False,,False,False,False,False,IVZ,Financials,Invesco
+False,False,False,,False,,10.67,UNDER_PERF,1.48,18.29,6.14,False,False,False,False,True,83,0,Pharmaceuticals,18.68,False,False,,False,False,False,False,WAT,Health Care,Waters Corporation
+False,False,False,,False,,4.29,AVG_PERF,13.9,25.77,7.57,False,False,False,False,False,14,1,Building Products,45.15,False,False,,False,False,False,False,MAS,Industrials,Masco
+False,False,False,,False,,2.89,UNDER_PERF,2.94,10.97,5.14,False,False,False,False,False,108,0,Real Estate,2.97,False,False,,False,False,False,False,EQR,Real Estate,Equity Residential
+False,False,False,,False,,11.45,AVG_PERF,11.62,29.18,6.11,False,False,False,False,False,94,3,Food Products,58.23,False,False,,False,False,False,False,HRL,Consumer Staples,Hormel
+False,False,False,,False,,8.35,UNDER_PERF,1.23,14.28,4.7,False,False,False,False,False,19,2,Textiles & Apparel,8.42,False,False,,False,False,False,False,TPR,Consumer Discretionary,Tapestry
+False,False,False,,False,,5.58,AVG_PERF,15.86,29.4,7.96,False,False,False,False,True,77,2,Chemicals,59.06,False,False,,False,False,False,False,ALB,Materials,Albemarle Corporation
+False,False,False,,False,,7.82,AVG_PERF,7.21,20.75,5.72,False,False,False,False,False,9,1,Homebuilders,26.6,False,False,,False,False,False,False,NVR,Consumer Discretionary,NVR
+False,False,False,,False,,7.9,UNDER_PERF,0.06,18.76,10.79,False,False,False,False,False,97,2,Insurance,20.04,False,False,,False,False,False,False,MMC,Financials,Marsh & McLennan
+False,False,False,,False,,9.32,AVG_PERF,5.29,20.45,5.84,False,False,False,False,False,46,2,Transportation,25.56,False,False,,False,False,False,False,FDX,Industrials,FedEx
+False,False,False,,False,,3.03,UNDER_PERF,3.34,10.8,4.43,False,True,False,False,False,108,0,Real Estate,2.85,False,False,,False,False,False,False,PEAK,Real Estate,Healthpeak Properties
+False,True,False,,False,,19.72,OUT_PERF,7.08,34.68,7.87,False,False,True,False,False,22,4,Aerospace & Defense,76.45,False,False,,False,False,False,False,BA,Industrials,Boeing
+False,False,True,,False,,8.57,AVG_PERF,14.49,27.72,4.65,False,False,False,True,False,107,2,Utilities,52.68,False,False,,False,False,False,False,DUK,Utilities,Duke Energy
+False,False,False,,False,,5.59,UNDER_PERF,2.14,13.48,5.76,False,False,False,False,False,58,2,Healthcare,6.73,False,False,,False,False,False,False,HSIC,Health Care,Henry Schein
+False,False,False,,False,,10.81,AVG_PERF,0.48,22.89,11.59,False,False,False,False,False,105,4,Software & Services,34.27,False,False,,False,False,False,False,GOOGL,Communication Services,Alphabet (Class A)
+False,False,False,,False,,13.5,AVG_PERF,0.11,20.01,6.41,False,False,False,False,False,32,1,Commercial Services,23.99,False,False,,False,False,False,False,VRSK,Industrials,Verisk Analytics
+False,False,False,,False,,11.14,UNDER_PERF,1.27,18.23,5.83,False,False,False,False,False,105,1,Software & Services,18.49,False,False,,False,False,False,False,FIS,Information Technology,Fidelity National Information Services
+False,False,False,,False,,18.26,AVG_PERF,0.11,25.74,7.38,False,False,False,False,True,83,1,Pharmaceuticals,45.06,False,False,,False,False,False,False,INCY,Health Care,Incyte
+False,False,False,,False,,13.54,AVG_PERF,3.03,25.96,9.39,False,True,False,False,True,58,3,Healthcare,46.02,False,False,,False,False,False,False,ABT,Health Care,Abbott Laboratories
+False,True,False,,False,,16.23,OUT_PERF,11.05,34.36,7.07,False,False,True,False,False,22,2,Aerospace & Defense,75.58,False,False,,False,False,False,True,TXT,Industrials,Textron
+False,False,False,,False,,12.87,AVG_PERF,3.04,22.19,6.28,False,False,False,False,False,105,1,Software & Services,31.5,False,False,,False,False,False,False,VRSN,Information Technology,Verisign
+False,False,False,,False,,13.54,AVG_PERF,1.52,24.6,9.53,False,True,False,False,True,83,3,Pharmaceuticals,40.63,False,False,,False,False,False,False,PFE,Health Care,Pfizer
+False,False,False,,False,,9.19,AVG_PERF,7.45,20.25,3.61,False,False,False,False,False,46,3,Transportation,24.9,False,False,,False,False,False,False,CSX,Industrials,CSX
+False,False,False,,False,,3.92,UNDER_PERF,4.61,13.37,4.84,False,False,False,False,False,108,0,Real Estate,6.52,False,False,,False,False,False,False,DRE,Real Estate,Duke Realty Corp
+False,False,False,,False,,8.52,AVG_PERF,8.98,20.7,3.2,False,False,False,False,False,39,2,Refiners & Pipelines,26.43,False,False,,False,False,False,False,WMB,Energy,Williams Companies
+False,False,False,,False,,14.37,AVG_PERF,0.05,21.21,6.79,False,False,False,False,False,32,2,Commercial Services,28.02,False,False,,False,False,False,False,INFO,Industrials,IHS Markit
+False,False,False,,False,,6.55,UNDER_PERF,4.91,16.01,4.55,False,False,False,False,True,94,3,Food Products,12.12,False,False,,False,False,False,False,PEP,Consumer Staples,PepsiCo
+False,False,False,,False,,14.23,AVG_PERF,0.11,21.84,7.5,False,False,False,False,False,58,2,Healthcare,30.24,False,False,,False,False,False,False,CERN,Health Care,Cerner
+False,False,False,,False,,12.72,UNDER_PERF,1.24,19.62,5.66,False,False,False,False,False,105,2,Software & Services,22.82,False,False,,False,False,False,False,PTC,Information Technology,PTC
+False,False,False,,False,,5.41,UNDER_PERF,1.61,12.41,5.39,False,False,False,False,False,89,1,Diversified Financials,4.85,False,False,,False,False,False,False,MSCI,Financials,MSCI
+False,False,False,,False,,9.34,AVG_PERF,7.46,23.29,6.5,False,False,False,False,False,107,3,Utilities,35.68,False,False,,False,False,False,False,ED,Utilities,Consolidated Edison
+False,False,False,,False,,15.52,AVG_PERF,3.29,26.54,7.72,False,True,False,False,False,58,2,Healthcare,48.22,False,False,,False,False,False,False,HCA,Health Care,HCA Healthcare
+False,False,False,,False,,12.19,UNDER_PERF,1.23,19.3,5.88,False,False,False,False,False,105,2,Software & Services,21.76,False,False,,False,False,False,False,FTNT,Information Technology,Fortinet
+False,False,False,,False,,3.44,UNDER_PERF,2.43,10.87,5,False,False,False,False,False,108,0,Real Estate,2.92,False,False,,False,False,False,False,AMT,Real Estate,American Tower
+False,False,False,,False,,3.48,UNDER_PERF,3.9,13.89,6.51,False,False,False,False,False,108,0,Real Estate,7.61,False,False,,False,False,False,False,ESS,Real Estate,Essex Property Trust
+False,False,False,,False,,16.68,OUT_PERF,7.72,31.31,6.91,False,False,False,False,False,45,2,Consumer Services,65.85,False,False,,False,False,False,False,DPZ,Consumer Discretionary,Domino's Pizza
+False,False,False,,False,,13.91,OUT_PERF,15.63,34.87,5.32,False,False,False,False,False,35,1,Industrial Conglomerates,76.86,False,False,,False,False,False,False,FTV,Industrials,Fortive
+False,False,True,,False,,8.66,AVG_PERF,14.53,28.94,5.74,False,False,False,True,False,107,2,Utilities,57.23,False,False,,False,False,False,False,PEG,Utilities,Public Service Enterprise Group
+False,False,False,,False,,7.18,UNDER_PERF,1.07,14.18,5.94,False,False,False,False,False,105,1,Software & Services,8.22,False,False,,False,False,False,False,ADP,Information Technology,Automatic Data Processing
+False,False,False,,False,,9.11,OUT_PERF,18.16,32.64,5.37,False,False,False,False,False,77,1,Chemicals,70.19,False,False,,False,False,False,False,CF,Materials,CF Industries
+False,False,False,,False,,8.84,UNDER_PERF,5.87,19.37,4.66,False,False,False,False,False,19,2,Consumer Durables,21.95,False,False,,False,False,False,False,GRMN,Consumer Discretionary,Garmin
+False,False,False,,False,,9.49,UNDER_PERF,4.71,19.83,5.63,False,False,False,False,False,46,1,Transportation,23.41,False,False,,False,False,False,False,CHRW,Industrials,C. H. Robinson
+False,False,False,,False,,6.65,UNDER_PERF,0.68,17,9.66,False,False,False,False,False,97,1,Insurance,14.84,False,False,,False,False,False,False,PFG,Financials,Principal Financial Group
+False,False,False,,False,,6.01,UNDER_PERF,3,14.32,5.32,False,False,False,False,False,46,1,Transportation,8.46,False,False,,False,False,False,False,JBHT,Industrials,J. B. Hunt
+False,False,False,,False,,9.44,AVG_PERF,8.09,21.66,4.13,False,False,False,False,True,94,2,Food Products,29.64,False,False,,False,False,False,False,GIS,Consumer Staples,General Mills
+False,False,False,,False,,11.36,AVG_PERF,8.3,28.21,8.56,False,False,False,False,False,54,3,Machinery,54.44,False,False,,False,False,False,False,PCAR,Industrials,Paccar
+False,False,False,,False,,15.85,OUT_PERF,1.71,30.05,12.49,False,False,False,False,False,175,3,Banks,61.64,False,False,,False,False,False,False,USB,Financials,U.S. Bancorp
+False,False,False,,False,,6.45,UNDER_PERF,5.89,18.26,5.93,False,False,False,False,False,17,1,Traders & Distributors,18.57,False,False,,False,False,False,False,URI,Industrials,United Rentals
+False,False,False,,False,,6.99,UNDER_PERF,2.71,16.8,7.1,False,False,False,False,False,19,3,Textiles & Apparel,14.32,False,False,,False,False,False,False,NKE,Consumer Discretionary,Nike
+False,False,False,,False,,9.72,AVG_PERF,7.88,22.48,4.88,False,False,False,False,True,94,3,Food Products,32.62,False,False,,False,False,False,False,KO,Consumer Staples,Coca-Cola Company
+False,False,True,,False,,7.4,OUT_PERF,16.23,30.28,6.64,False,False,False,True,False,107,2,Utilities,62.34,False,False,,False,False,False,False,ETR,Utilities,Entergy
+False,False,False,,False,,3.83,UNDER_PERF,3.2,12.31,5.28,False,False,False,False,False,108,0,Real Estate,4.71,False,False,,False,False,False,False,UDR,Real Estate,UDR
+False,False,False,,False,,4.41,UNDER_PERF,5.76,18,7.83,False,False,False,False,False,31,4,Semiconductors,17.84,False,False,,False,False,False,False,QCOM,Information Technology,Qualcomm
+False,False,False,,False,,10.81,AVG_PERF,1.87,27.39,14.71,False,False,False,False,False,97,2,Insurance,51.29,False,False,,False,False,False,False,AIG,Financials,American International Group
+False,False,False,,False,,11.52,UNDER_PERF,2.13,18.38,4.73,False,False,False,False,False,35,3,Food Retailers,18.95,False,False,,False,False,False,False,WBA,Consumer Staples,Walgreens Boots Alliance
+False,False,False,,False,,4.29,UNDER_PERF,5.32,15.14,5.53,False,False,False,False,False,108,2,Real Estate,10,False,False,,False,False,False,False,IRM,Real Estate,Iron Mountain
+False,False,False,,False,,9.26,AVG_PERF,5.59,20.16,5.31,False,False,False,False,False,46,2,Transportation,24.58,False,False,,False,False,False,False,UPS,Industrials,United Parcel Service
+False,False,False,,False,,7.41,UNDER_PERF,3.4,15.08,4.27,False,False,False,False,False,57,2,Retailing,9.88,False,False,,False,False,False,False,DLTR,Consumer Discretionary,Dollar Tree
+False,False,False,,False,,10.54,OUT_PERF,19.19,37.86,8.14,False,False,False,False,True,66,3,Oil & Gas Producers,83.97,False,False,,False,False,False,False,XOM,Energy,ExxonMobil
+False,False,False,,False,,10.89,UNDER_PERF,1.33,19.24,7.01,False,False,False,False,True,83,2,Pharmaceuticals,21.59,False,False,,False,False,False,False,IQV,Health Care,IQVIA
+False,True,False,,False,,6.63,UNDER_PERF,4.87,17.19,5.69,False,False,False,False,False,19,1,Electrical Equipment,15.38,False,False,,False,False,False,False,ETN,Industrials,Eaton Corporation
+False,False,False,,False,,9.28,UNDER_PERF,1.72,16.7,5.7,False,False,False,False,False,68,3,Telecommunication Services,14.01,False,False,,False,False,False,False,VZ,Communication Services,Verizon Communications
+False,False,False,,False,,6.86,UNDER_PERF,0.65,16.27,8.76,False,False,False,False,False,55,3,Technology Hardware,12.87,False,False,,False,False,False,False,AAPL,Information Technology,Apple
+False,False,False,,False,,13,AVG_PERF,8.1,27.05,5.95,False,False,False,False,False,54,0,Machinery,50.07,False,False,,False,False,False,False,IEX,Industrials,IDEX Corporation
+False,False,True,,False,,7.4,AVG_PERF,14.68,27.52,5.43,False,False,False,True,False,107,1,Utilities,51.83,False,False,,False,False,False,False,WEC,Utilities,WEC Energy Group
+False,False,False,,False,,1.74,LAG_PERF,2.5,8.53,4.28,False,False,False,False,False,108,1,Real Estate,1.55,False,False,,False,False,False,False,PLD,Real Estate,Prologis
+False,False,False,,False,,3.6,UNDER_PERF,1.22,11.4,6.58,False,True,False,False,True,83,3,Pharmaceuticals,3.49,False,False,,False,False,False,False,ILMN,Health Care,Illumina
+False,False,False,,False,,4.76,UNDER_PERF,7.13,16.91,5.02,False,False,False,False,False,31,0,Semiconductors,14.61,False,False,,False,False,False,False,KLAC,Information Technology,KLA Corporation
+False,False,False,,False,,4.57,AVG_PERF,14.89,24.6,5.15,False,False,False,False,False,9,3,Paper & Forestry,40.65,False,False,,False,False,False,False,IP,Materials,International Paper
+False,False,False,,False,,11.34,AVG_PERF,6.88,25.91,7.68,False,False,False,False,True,28,2,Household Products,45.8,False,False,,False,False,False,False,EL,Consumer Staples,Estée Lauder Companies
+False,False,False,,False,,4.33,UNDER_PERF,4.51,14.72,5.88,False,False,False,False,False,108,1,Real Estate,9.14,False,False,,False,False,False,False,SPG,Real Estate,Simon Property Group
+False,False,False,,False,,9.4,UNDER_PERF,3.78,16.87,3.7,False,False,False,False,False,54,2,Machinery,14.53,False,False,,False,False,False,False,DE,Industrials,Deere & Co.
+False,False,False,,False,,9.89,UNDER_PERF,0.74,16.39,5.76,False,False,False,False,False,105,2,Software & Services,13.23,False,False,,False,False,False,False,PYPL,Information Technology,PayPal
+False,False,False,,False,,12.98,AVG_PERF,4.66,24.59,6.94,False,False,False,False,True,94,2,Food Products,40.59,False,False,,False,False,True,False,MO,Consumer Staples,Altria Group
+False,False,False,,False,,11.36,AVG_PERF,8.05,22.83,3.42,False,False,False,False,False,46,2,Transportation,33.96,False,False,,False,False,False,False,NSC,Industrials,Norfolk Southern
+False,False,False,,False,,12.8,UNDER_PERF,0.03,18.95,6.12,False,True,False,False,True,83,2,Pharmaceuticals,20.66,False,False,,False,False,False,False,AMGN,Health Care,Amgen
+False,False,False,,False,,11.83,AVG_PERF,1.87,24.39,10.69,False,False,False,False,False,89,2,Diversified Financials,39.85,False,False,,False,False,False,False,NTRS,Financials,Northern Trust
+False,False,False,,False,,6.75,UNDER_PERF,0.12,16.75,9.88,False,False,False,False,False,39,2,Media,14.2,False,False,,False,False,False,False,NFLX,Communication Services,Netflix
+False,False,False,,False,,16.61,AVG_PERF,1.11,29.33,11.61,False,False,False,False,False,175,3,Banks,58.81,False,False,,False,False,False,False,JPM,Financials,JPMorgan Chase
+False,False,False,,False,,2.48,LAG_PERF,1.27,6.99,3.24,False,False,False,False,False,108,1,Real Estate,1.2,False,False,,False,False,False,False,CBRE,Real Estate,CBRE
+False,False,False,,False,,14.89,OUT_PERF,11.29,32.39,6.21,False,False,False,False,False,46,2,Transportation,69.43,False,False,,False,False,False,False,LUV,Industrials,Southwest Airlines
+False,False,False,,False,,13.27,AVG_PERF,4.79,28.58,10.52,False,False,False,False,True,58,1,Healthcare,55.86,False,False,,False,False,False,False,HOLX,Health Care,Hologic
+False,False,False,,False,,12.92,AVG_PERF,2.11,29.13,14.11,False,False,False,False,False,175,0,Banks,58.05,False,False,,False,False,False,False,SIVB,Financials,SVB Financial
+False,False,False,,False,,3.44,UNDER_PERF,0.57,15.48,11.46,False,False,False,False,False,89,2,Diversified Financials,10.84,False,False,,False,False,False,False,L,Financials,Loews Corporation
+False,False,False,,False,,10.86,LEAD_PERF,22.42,43.22,9.95,False,False,False,False,True,66,3,Oil & Gas Producers,92.23,False,False,,False,False,False,False,CVX,Energy,Chevron Corporation
+False,False,False,,False,,12.49,UNDER_PERF,1.26,19.23,5.47,False,False,False,False,False,105,1,Software & Services,21.51,False,False,,False,False,False,False,FFIV,Information Technology,F5 Networks
+False,False,False,,False,,11.75,AVG_PERF,1.73,22.64,9.17,False,False,False,False,False,175,3,Banks,33.22,False,False,,False,False,False,False,PNC,Financials,PNC Financial Services
+False,False,False,,False,,8.66,AVG_PERF,10.69,26.4,7.05,False,False,False,False,False,17,2,Traders & Distributors,47.67,False,False,,False,False,False,False,FAST,Industrials,Fastenal
+False,False,False,,False,,9.83,AVG_PERF,1.74,23.82,12.26,False,False,False,False,False,175,1,Banks,37.57,False,False,,False,False,False,False,FRC,Financials,First Republic Bank
+False,False,False,,False,,11.9,AVG_PERF,1.48,21.34,7.95,False,False,False,False,False,89,2,Diversified Financials,28.51,False,False,,False,False,False,False,STT,Financials,State Street Corporation
+False,True,False,,False,,9.95,AVG_PERF,8.32,25.95,7.69,False,False,False,False,False,19,1,Electrical Equipment,46,False,False,,False,False,False,False,AME,Industrials,Ametek
+False,False,False,,False,,9.07,UNDER_PERF,1.1,14.37,4.21,False,False,False,False,False,105,0,Software & Services,8.54,False,False,,False,False,False,False,SNPS,Information Technology,Synopsys
+False,True,False,,False,,15.7,AVG_PERF,7.47,28.49,5.32,False,False,True,False,False,22,3,Aerospace & Defense,55.56,False,False,,False,False,False,True,NOC,Industrials,Northrop Grumman
+False,False,False,,False,,16.72,AVG_PERF,4.4,27.42,6.31,False,False,False,False,False,35,4,Food Retailers,51.48,False,False,,False,False,False,False,WMT,Consumer Staples,Walmart
+False,False,False,,False,,18.75,OUT_PERF,3.33,30.9,8.82,False,True,False,False,False,58,3,Healthcare,64.46,False,False,,False,False,False,False,UHS,Health Care,Universal Health Services
+False,False,False,,False,,21.01,OUT_PERF,1.02,32.44,10.41,False,False,False,False,False,105,4,Software & Services,69.64,False,False,,False,False,False,False,FB,Communication Services,Facebook
+False,False,False,,False,,10.98,AVG_PERF,0.11,20.91,9.83,False,False,False,False,False,89,1,Diversified Financials,27.15,False,False,,False,False,False,False,DFS,Financials,Discover Financial Services
+False,False,False,,False,,4.59,UNDER_PERF,3.73,13.49,5.18,False,False,False,False,False,25,1,Auto Components,6.78,False,False,,False,False,False,False,APTV,Consumer Discretionary,Aptiv
+False,False,False,,False,,7.92,UNDER_PERF,0.08,11.97,3.98,False,False,False,False,False,57,1,Retailing,4.18,False,False,,False,False,False,False,KMX,Consumer Discretionary,CarMax
+False,False,False,,False,,10.18,AVG_PERF,1.88,22.21,10.15,False,False,False,False,False,175,2,Banks,31.54,False,False,,False,False,False,False,CFG,Financials,Citizens Financial Group
+False,False,False,,False,,8.89,UNDER_PERF,0.16,13.03,3.98,False,False,False,False,False,57,1,Retailing,5.85,False,False,,False,False,False,False,ORLY,Consumer Discretionary,O'Reilly Automotive
+False,False,False,,False,,8.5,AVG_PERF,7.72,21.87,5.64,False,False,False,False,True,28,2,Household Products,30.36,False,False,,False,False,False,False,CLX,Consumer Staples,Clorox
+False,False,False,,False,,13.04,AVG_PERF,5.93,27.32,8.34,False,False,False,False,True,58,2,Healthcare,51.03,False,False,,False,False,False,False,DXCM,Health Care,DexCom
+False,False,False,,False,,10.73,AVG_PERF,3.1,20.84,7.01,False,True,False,False,True,58,2,Healthcare,26.93,False,False,,False,False,False,False,COO,Health Care,The Cooper Companies
+False,False,False,,False,,12.76,AVG_PERF,0.02,20.62,7.85,False,True,False,False,True,83,2,Pharmaceuticals,26.14,False,False,,False,False,False,False,BIIB,Health Care,Biogen
+False,False,False,,False,,8.1,UNDER_PERF,0.32,17.23,8.81,False,False,False,False,False,105,4,Software & Services,15.47,False,False,,False,False,False,False,MA,Information Technology,Mastercard
+False,False,False,,False,,1.93,UNDER_PERF,12.05,17.64,3.66,False,False,False,False,True,11,1,Containers & Packaging,16.64,False,False,,False,False,False,False,AVY,Materials,Avery Dennison
+False,False,False,,False,,9.27,UNDER_PERF,1.16,19.51,9.07,False,False,False,False,False,89,2,Diversified Financials,22.4,False,False,,False,False,False,False,BEN,Financials,Franklin Resources
+False,False,False,,False,,10.03,AVG_PERF,7.95,22.08,4.09,False,False,False,False,False,45,3,Consumer Services,31.11,False,False,,False,False,False,False,MAR,Consumer Discretionary,Marriott International
+False,False,False,,False,,10.1,AVG_PERF,1.66,24.57,12.81,False,False,False,False,False,97,3,Insurance,40.56,False,False,,False,False,False,False,AIZ,Financials,Assurant
+False,False,False,,False,,5.73,AVG_PERF,10.39,22.82,6.71,False,False,False,False,True,77,2,Chemicals,33.92,False,False,,False,False,False,False,IFF,Materials,International Flavors & Fragrances
+False,False,False,,False,,7.84,UNDER_PERF,0.71,16.06,7.51,False,False,False,False,False,105,3,Software & Services,12.29,False,False,,False,False,False,False,V,Information Technology,Visa
+False,False,False,,False,,11.78,AVG_PERF,0.05,20.34,8.51,False,False,False,False,False,89,2,Diversified Financials,25.25,False,False,,False,False,False,False,AXP,Financials,American Express
+False,False,False,,False,,10.92,UNDER_PERF,1.31,19.18,6.95,False,False,False,False,False,105,2,Software & Services,21.36,False,False,,False,False,False,False,GPN,Information Technology,Global Payments
+False,False,False,,False,,5.23,UNDER_PERF,0.02,10.59,5.34,False,False,False,False,False,89,2,Diversified Financials,2.64,False,False,,False,False,False,False,MCO,Financials,Moody's Corporation
+False,False,False,,False,,12.31,AVG_PERF,11.53,29.22,5.38,False,False,False,False,False,46,2,Transportation,58.47,False,False,,False,False,False,False,AAL,Industrials,American Airlines Group
+False,False,False,,False,,13.62,AVG_PERF,4.53,28.08,9.93,False,False,False,False,True,58,2,Healthcare,54.02,False,False,,False,False,False,False,ZBH,Health Care,Zimmer Biomet
+False,False,False,,False,,13.58,OUT_PERF,9.39,30.54,7.57,False,False,False,False,False,54,1,Machinery,63.18,False,False,,False,False,False,False,SNA,Industrials,Snap-on
+False,False,False,,False,,8.13,OUT_PERF,20.39,36.25,7.73,False,False,False,False,False,66,1,Oil & Gas Producers,80.84,False,False,,False,False,False,False,EOG,Energy,EOG Resources
+False,False,True,,False,,8.21,OUT_PERF,19.71,33.43,5.51,False,False,False,False,False,107,2,Utilities,72.6,False,False,,False,False,False,False,PPL,Utilities,PPL
+False,False,False,,False,,7.57,UNDER_PERF,1.12,19.43,10.75,False,False,False,False,False,97,2,Insurance,22.15,False,False,,False,False,False,False,TRV,Financials,The Travelers Companies
+False,False,False,,False,,5.76,LAG_PERF,0.07,9.39,3.56,False,False,False,False,False,32,1,Commercial Services,1.87,False,False,,False,False,False,False,RHI,Industrials,Robert Half International
+False,False,True,,False,,8.95,OUT_PERF,17.26,31.75,5.55,False,False,False,False,False,107,2,Utilities,67.25,False,False,,False,False,False,False,NRG,Utilities,NRG Energy
+False,False,False,,False,,5.76,UNDER_PERF,3.25,14.71,5.7,False,False,False,False,False,108,1,Real Estate,9.11,False,False,,False,False,False,False,EQIX,Real Estate,Equinix
+False,False,False,,False,,12.38,AVG_PERF,7.12,25.09,5.59,False,False,False,False,False,54,1,Machinery,42.48,False,False,,False,False,False,False,DOV,Industrials,Dover Corporation
+False,False,False,,False,,3.22,UNDER_PERF,3.87,12,4.91,False,False,False,False,False,108,1,Real Estate,4.21,False,False,,False,False,False,False,WELL,Real Estate,Welltower
+False,False,False,,False,,15.97,OUT_PERF,10.88,36.58,9.73,False,False,False,False,False,23,2,Steel,81.49,False,False,,False,False,False,False,NUE,Materials,Nucor
+False,False,False,,False,,9.35,AVG_PERF,6.06,22.12,6.72,False,False,False,False,True,28,3,Household Products,31.27,False,False,,False,False,False,False,CL,Consumer Staples,Colgate-Palmolive
+False,False,False,,False,,3.46,UNDER_PERF,7.8,14.53,3.27,False,False,False,False,False,32,2,Commercial Services,8.84,False,False,,False,False,False,False,WM,Industrials,Waste Management
+False,False,False,,False,,6,UNDER_PERF,6.97,18.74,5.78,False,False,False,False,False,31,0,Semiconductors,19.97,False,False,,False,False,False,False,TER,Information Technology,Teradyne
+False,False,False,,False,,10.54,AVG_PERF,1.96,20.34,7.84,False,False,False,False,False,175,2,Banks,25.23,False,False,,False,False,False,False,HBAN,Financials,Huntington Bancshares
+False,False,False,,False,,9.18,AVG_PERF,0.13,21.79,12.49,False,False,False,False,False,97,2,Insurance,30.06,False,False,,False,False,False,False,AJG,Financials,Arthur J. Gallagher & Co.
+False,False,False,,False,,9.7,AVG_PERF,1.49,20.66,9.48,False,False,False,False,False,89,2,Diversified Financials,26.33,False,False,,False,False,False,False,BLK,Financials,BlackRock
+False,False,True,,False,,9.56,AVG_PERF,10.58,25.56,5.42,False,False,False,False,False,107,2,Utilities,44.35,False,False,,False,False,False,False,CNP,Utilities,CenterPoint Energy
+False,False,False,,False,,5.5,AVG_PERF,11.51,24.81,7.81,False,False,False,False,True,77,2,Chemicals,41.51,False,False,,False,False,False,False,EMN,Materials,Eastman Chemical
+False,False,False,,False,,4.34,UNDER_PERF,2.27,12.42,5.82,False,False,False,False,False,105,1,Real Estate,4.3,False,False,,False,False,False,False,FRT,Real Estate,Federal Realty Investment Trust
+False,False,False,,False,,7.17,UNDER_PERF,0.05,11.34,4.12,False,False,False,False,False,57,2,Retailing,3.41,False,False,,False,False,False,False,AZO,Consumer Discretionary,AutoZone
+False,False,False,,False,,12.03,OUT_PERF,16.3,36.87,8.55,False,False,False,False,False,77,2,Chemicals,82.13,False,False,,False,False,False,False,MOS,Materials,The Mosaic Company
+False,False,False,,False,,2.13,AVG_PERF,16.64,24.89,6.12,False,False,False,False,False,77,2,Chemicals,41.74,False,False,,False,False,False,False,LYB,Materials,LyondellBasell
+False,False,False,,False,,14.24,AVG_PERF,6.11,24.67,4.31,False,False,False,False,False,45,2,Consumer Services,40.93,False,False,,False,False,False,False,SBUX,Consumer Discretionary,Starbucks
+False,False,True,,False,,7.16,OUT_PERF,17.83,30.55,5.56,False,False,False,True,False,107,2,Utilities,63.21,False,False,,False,False,False,False,AEP,Utilities,American Electric Power
+False,False,False,,False,,12.3,AVG_PERF,1.49,20.69,6.9,False,True,False,False,True,83,2,Pharmaceuticals,26.42,False,False,,False,False,False,False,BIO,Health Care,Bio-Rad Laboratories
+False,False,False,,False,,7.58,UNDER_PERF,3.3,15.95,5.08,False,False,False,False,False,54,1,Machinery,12.05,False,False,,False,False,False,False,XYL,Industrials,Xylem
+False,False,False,,False,,11.13,AVG_PERF,6.07,23.31,6.11,False,False,False,False,False,35,3,Food Retailers,35.7,False,False,,False,False,False,False,COST,Consumer Staples,Costco
+False,False,False,,False,,4.54,AVG_PERF,12.75,23.59,6.3,False,False,False,False,False,14,0,Building Products,36.78,False,False,,False,False,False,False,ALLE,Industrials,Allegion
+False,False,False,,False,,4.32,LAG_PERF,0.29,9.45,4.83,False,False,False,False,False,105,2,Software & Services,1.88,False,False,,False,False,False,False,ACN,Information Technology,Accenture
+False,False,False,,False,,13.16,OUT_PERF,18.23,36.42,5.04,False,False,False,False,True,94,3,Food Products,81.21,False,False,,False,False,False,False,ADM,Consumer Staples,ADM
+False,False,False,,False,,12.67,AVG_PERF,0.13,20.9,8.1,False,False,False,False,False,58,3,Healthcare,27.11,False,False,,False,False,False,False,DGX,Health Care,Quest Diagnostics
+False,False,False,,False,,12.53,AVG_PERF,0.09,21.55,8.94,False,False,False,False,True,58,2,Healthcare,29.27,False,False,,False,False,False,False,DVA,Health Care,DaVita
+False,False,False,,False,,3.29,UNDER_PERF,10.48,17.56,3.78,False,False,False,False,False,9,2,Paper & Forestry,16.38,False,False,,False,False,False,False,WY,Real Estate,Weyerhaeuser
+False,False,False,,False,,17.4,OUT_PERF,3.12,32.31,11.79,False,True,False,False,True,83,2,Pharmaceuticals,69.17,False,False,,False,False,False,False,LLY,Health Care,Eli Lilly & Co
+False,False,False,,False,,7.7,UNDER_PERF,1.38,18.18,9.1,False,False,False,False,True,83,1,Pharmaceuticals,18.34,False,False,,False,False,False,False,ZTS,Health Care,Zoetis
+False,False,False,,False,,8.91,AVG_PERF,8.89,24.32,6.52,False,False,False,False,False,10,2,Energy Services,39.51,False,False,,False,False,False,False,HAL,Energy,Halliburton
+False,False,False,,False,,4.2,UNDER_PERF,7.26,17.73,6.28,False,False,False,False,False,31,2,Semiconductors,16.99,False,False,,False,False,False,False,MU,Information Technology,Micron Technology
+False,False,False,,False,,8.97,AVG_PERF,9.05,24.36,6.34,False,False,False,True,False,107,3,Utilities,39.67,False,False,,False,False,False,False,EXC,Utilities,Exelon
+False,False,False,,False,,2.92,UNDER_PERF,2.95,10.28,4.4,False,False,False,False,False,108,0,Real Estate,2.34,False,False,,False,False,False,False,AVB,Real Estate,AvalonBay Communities
+False,False,False,,False,,9.78,UNDER_PERF,1.75,19.51,7.98,False,False,False,False,False,175,1,Banks,22.4,False,False,,False,False,False,False,RF,Financials,Regions Financial Corporation
+False,False,False,,False,,14.45,AVG_PERF,4.11,24.42,5.86,False,False,False,False,False,45,3,Consumer Services,39.99,False,False,,False,False,False,False,MCD,Consumer Discretionary,McDonald's
+False,False,False,,False,,12.94,AVG_PERF,1.92,27.16,12.3,False,False,False,False,False,89,2,Diversified Financials,50.51,False,False,,False,False,False,False,RJF,Financials,Raymond James Financial
+False,False,False,,False,,1.41,UNDER_PERF,8.89,14.05,3.75,False,False,False,False,False,11,2,Containers & Packaging,7.96,False,False,,False,False,False,False,PKG,Materials,Packaging Corporation of America
+False,False,False,,False,,12.39,OUT_PERF,14.31,37.23,10.53,False,False,False,False,False,94,4,Food Products,82.77,False,False,,False,False,False,False,TSN,Consumer Staples,Tyson Foods
+False,False,True,,False,,9.17,AVG_PERF,11.02,26.3,6.1,False,False,False,True,False,107,2,Utilities,47.36,False,False,,False,False,False,False,PNW,Utilities,Pinnacle West Capital
+False,False,False,,False,,4.95,UNDER_PERF,3.51,13.57,5.11,False,False,False,False,False,108,1,Real Estate,6.96,False,False,,False,False,False,False,BXP,Real Estate,Boston Properties
+False,False,False,,False,,16.57,AVG_PERF,0.01,22.88,6.31,False,False,False,False,False,58,2,Healthcare,34.25,False,False,,False,False,False,False,HUM,Health Care,Humana
+False,False,False,,False,,12.14,AVG_PERF,9.43,25.22,3.65,False,False,False,False,False,46,2,Transportation,43.05,False,False,,False,False,False,False,UNP,Industrials,Union Pacific
+False,False,False,,False,,4.85,UNDER_PERF,3.07,11.45,3.52,False,False,False,False,False,57,2,Retailing,3.53,False,False,,False,False,False,False,HD,Consumer Discretionary,Home Depot
+False,False,False,,False,,7.51,UNDER_PERF,1.93,14.89,5.46,False,False,False,False,False,55,3,Technology Hardware,9.48,False,False,,False,False,False,False,MSI,Information Technology,Motorola Solutions
+False,False,False,,False,,6.63,UNDER_PERF,1.29,13.57,5.65,False,False,False,False,False,19,2,Textiles & Apparel,6.98,False,False,,False,False,False,False,RL,Consumer Discretionary,Ralph Lauren Corporation
+False,False,False,,False,,9.51,OUT_PERF,14.92,32.93,8.5,False,False,False,False,False,31,0,Semiconductors,71.11,False,False,,False,False,False,False,SWKS,Information Technology,Skyworks Solutions
+False,False,False,,False,,8.83,UNDER_PERF,0.13,17.36,8.4,False,False,False,False,False,39,1,Media,15.83,False,False,,False,False,False,False,DISCA,Communication Services,Discovery (Series A)
+False,False,False,,False,,3.86,UNDER_PERF,3.89,13.14,5.38,False,False,False,False,False,108,0,Real Estate,6.1,False,False,,False,False,False,False,KIM,Real Estate,Kimco Realty
+False,False,False,,False,,14.8,OUT_PERF,4.21,30.96,11.94,False,False,False,False,True,58,3,Healthcare,64.62,False,False,,False,False,False,False,SYK,Health Care,Stryker Corporation
+False,False,False,,False,,6.58,UNDER_PERF,2.89,13.73,4.26,False,False,False,False,False,57,2,Retailing,7.26,False,False,,False,False,False,False,TSCO,Consumer Discretionary,Tractor Supply Company
+False,False,False,,False,,8.28,UNDER_PERF,1.13,14.95,5.54,False,False,False,False,False,57,3,Retailing,9.6,False,False,,False,False,False,False,GPS,Consumer Discretionary,Gap
+False,False,False,,False,,7.78,UNDER_PERF,2.48,16.37,6.12,False,False,False,False,False,57,2,Retailing,13.16,False,False,,False,False,False,False,BBWI,Consumer Discretionary,Bath & Body Works Inc.
+False,False,False,,False,,8.34,UNDER_PERF,1.76,16.25,6.15,False,False,False,False,False,57,2,Retailing,12.8,False,False,,False,False,False,False,UAA,Consumer Discretionary,Under Armour (Class A)
+False,False,False,,False,,17.12,AVG_PERF,0.11,23.51,6.28,False,False,False,False,False,32,1,Commercial Services,36.47,False,False,,False,False,False,False,IT,Information Technology,Gartner
+False,False,False,,False,,9.33,AVG_PERF,9.53,24.53,5.67,False,False,False,False,False,9,2,Homebuilders,40.38,False,False,,False,False,False,False,LEN,Consumer Discretionary,Lennar
+False,False,False,,False,,9.71,OUT_PERF,17.53,34.87,7.64,False,False,False,False,False,66,2,Oil & Gas Producers,76.88,False,False,,False,False,False,False,COP,Energy,ConocoPhillips
+False,False,False,,False,,15.14,AVG_PERF,3.83,28.31,9.34,False,True,False,False,True,58,3,Healthcare,54.83,False,False,,False,False,False,False,BDX,Health Care,Becton Dickinson
+False,False,False,,False,,2.55,UNDER_PERF,4.51,12.3,5.24,False,False,False,False,False,108,1,Real Estate,4.67,False,False,,False,False,False,False,PSA,Real Estate,Public Storage
+False,False,False,,False,,15.62,AVG_PERF,0.14,22.69,6.92,False,True,False,False,False,58,2,Healthcare,33.39,False,False,,False,False,False,False,CNC,Health Care,Centene Corporation
+False,False,False,,False,,7.35,UNDER_PERF,5.97,18.7,5.38,False,False,False,False,True,94,2,Food Products,19.88,False,True,,False,False,False,False,TAP,Consumer Staples,Molson Coors Beverage Company
+False,False,False,,False,,14.1,OUT_PERF,9.8,30.94,7.04,False,False,False,False,False,54,2,Machinery,64.59,False,False,,False,False,False,False,EMR,Industrials,Emerson Electric Company
+False,False,False,,False,,13.18,AVG_PERF,0.03,20.51,7.3,False,True,False,False,True,83,2,Pharmaceuticals,25.81,False,False,,False,False,False,False,REGN,Health Care,Regeneron Pharmaceuticals
+False,False,False,,False,,4.92,UNDER_PERF,0.76,12.14,6.46,False,False,False,False,False,55,2,Technology Hardware,4.37,False,False,,False,False,False,False,HPE,Information Technology,Hewlett Packard Enterprise
+False,False,False,,False,,11.95,AVG_PERF,1.91,23.64,9.78,False,False,False,False,False,175,2,Banks,36.9,False,False,,False,False,False,False,PBCT,Financials,People's United Financial
+False,True,False,,False,,13.75,AVG_PERF,3.9,25.36,7.71,False,False,True,False,False,24,3,Construction & Engineering,43.56,False,False,,False,False,False,False,J,Industrials,Jacobs Engineering Group
+False,False,False,,False,,12.71,AVG_PERF,4.62,22.79,5.45,False,False,False,False,False,105,0,Software & Services,33.8,False,False,,False,False,False,False,ROP,Industrials,Roper Technologies
+False,True,False,,False,,1.27,UNDER_PERF,8.62,13.83,3.94,False,False,False,False,False,11,2,Containers & Packaging,7.49,False,False,,False,False,False,False,BLL,Materials,Ball Corp
+False,False,False,,False,,8.39,UNDER_PERF,1.41,15.73,5.94,False,False,False,False,False,105,1,Software & Services,11.53,False,False,,False,False,False,False,NOW,Information Technology,ServiceNow
+False,False,False,,False,,10.01,LEAD_PERF,23.91,42.05,8.13,False,False,False,False,False,66,2,Oil & Gas Producers,90.57,False,False,,False,False,False,False,MRO,Energy,Marathon Oil
+False,False,False,,False,,10.77,UNDER_PERF,1.24,18.27,6.25,False,True,False,False,True,83,2,Pharmaceuticals,18.61,False,False,,False,False,False,False,PKI,Health Care,PerkinElmer
+False,False,False,,False,,13.94,AVG_PERF,4.97,29.8,10.88,False,False,False,False,True,58,1,Healthcare,60.5,False,False,,False,False,False,False,ISRG,Health Care,Intuitive Surgical
+False,False,False,,False,,13.34,AVG_PERF,8.15,25.98,4.49,False,False,False,False,False,45,2,Consumer Services,46.2,False,False,,False,False,False,False,DRI,Consumer Discretionary,Darden Restaurants
+False,False,False,,False,,9.32,UNDER_PERF,0.05,15.38,6,False,False,False,False,False,39,2,Media,10.58,False,False,,False,False,False,False,IPG,Communication Services,Interpublic Group
+False,False,False,,False,,12.45,AVG_PERF,2.02,21.65,7.18,False,False,False,False,False,105,2,Software & Services,29.6,False,False,,False,False,False,False,BKNG,Consumer Discretionary,Booking Holdings
+False,False,False,,False,,8.12,AVG_PERF,13.44,28.64,7.08,False,False,False,False,True,77,3,Chemicals,56.07,False,False,,False,False,False,False,DD,Materials,DuPont
+False,False,False,,False,,13.39,AVG_PERF,2.72,23.41,7.31,False,False,False,False,False,68,3,Telecommunication Services,36.1,False,False,,False,False,False,False,TMUS,Communication Services,T-Mobile US
+False,False,False,,False,,4.33,UNDER_PERF,2.6,13.44,6.52,False,False,False,False,False,25,2,Auto Components,6.69,False,False,,False,False,False,False,BWA,Consumer Discretionary,BorgWarner
+False,False,False,,False,,16.92,AVG_PERF,1.12,28.01,9.98,False,True,False,False,True,83,3,Pharmaceuticals,53.78,False,False,,False,False,False,False,ABBV,Health Care,AbbVie
+False,False,False,,False,,10.89,AVG_PERF,0.18,23.89,12.82,False,False,False,False,False,97,1,Insurance,37.8,False,False,,False,False,False,False,BRO,Financials,Brown & Brown
+False,False,False,,False,,9.81,UNDER_PERF,1.17,17.59,6.61,False,False,False,False,False,105,0,Software & Services,16.48,False,False,,False,False,False,False,PAYX,Information Technology,Paychex
+False,False,False,,False,,17.19,LEAD_PERF,20.38,48.81,11.23,False,False,False,False,False,35,2,Industrial Conglomerates,96.95,False,False,,False,False,False,False,LEG,Consumer Discretionary,Leggett & Platt
+False,False,False,,False,,9.71,UNDER_PERF,1.24,16.2,5.24,False,False,False,False,False,105,0,Software & Services,12.65,False,False,,False,False,False,False,JKHY,Information Technology,Jack Henry & Associates
+False,False,False,,False,,10.06,UNDER_PERF,2.55,19.76,7.15,False,False,False,False,False,105,3,Software & Services,23.22,False,False,,False,False,False,False,TWTR,Communication Services,Twitter
+False,False,False,,False,,7.23,OUT_PERF,18.74,30.84,4.88,False,False,False,False,False,39,3,Refiners & Pipelines,64.23,False,False,,False,False,False,False,VLO,Energy,Valero Energy
+False,False,False,,False,,9.72,AVG_PERF,10.31,23.85,3.82,False,False,False,False,False,45,3,Consumer Services,37.69,False,False,,False,False,False,False,CCL,Consumer Discretionary,Carnival Corporation
+False,False,False,,False,,9.01,UNDER_PERF,2.36,16.74,5.36,False,False,False,False,False,89,1,Diversified Financials,14.16,False,False,,False,False,False,False,TROW,Financials,T. Rowe Price
+False,False,False,,False,,7.04,UNDER_PERF,0.96,18.27,10.26,False,False,False,False,False,97,1,Insurance,18.59,False,False,,False,False,False,False,RE,Financials,Everest Re
+False,False,False,,False,,8.85,UNDER_PERF,2.86,19.39,7.69,False,False,False,False,True,58,2,Healthcare,21.99,False,False,,False,False,False,False,EW,Health Care,Edwards Lifesciences
+False,False,False,,False,,10.73,UNDER_PERF,1.19,18.34,6.41,False,False,False,False,False,105,2,Software & Services,18.83,False,False,,False,False,False,False,FISV,Information Technology,Fiserv
+False,False,False,,False,,14.74,AVG_PERF,7.45,26.78,4.59,False,False,False,False,True,94,2,Food Products,49.04,False,False,,False,False,False,False,K,Consumer Staples,Kellogg's
+False,False,False,,False,,4.63,UNDER_PERF,3.7,11.66,3.32,False,False,False,False,False,57,2,Retailing,3.78,False,False,,False,False,False,False,LOW,Consumer Discretionary,Lowe's
+False,False,False,,False,,10.12,AVG_PERF,11.98,26.61,4.51,False,False,False,False,False,45,2,Consumer Services,48.42,False,False,,False,False,False,False,NCLH,Consumer Discretionary,Norwegian Cruise Line Holdings
+False,False,False,,False,,5.3,UNDER_PERF,6.41,15.87,4.16,False,True,False,False,False,19,2,Consumer Durables,11.85,False,False,,False,False,False,False,NWL,Consumer Discretionary,Newell Brands
+False,False,False,,False,,5.65,UNDER_PERF,0.48,10.78,4.64,False,False,False,False,False,105,1,Software & Services,2.83,False,False,,False,False,False,False,ADBE,Information Technology,Adobe
+False,False,False,,False,,7.31,UNDER_PERF,3.83,16.26,5.12,False,False,False,False,False,46,0,Transportation,12.84,False,False,,False,False,False,False,EXPD,Industrials,Expeditors
+False,False,False,,False,,8.44,AVG_PERF,9.48,24.09,6.17,False,False,False,False,True,77,2,Chemicals,38.63,False,False,,False,False,False,False,ECL,Materials,Ecolab
+False,False,False,,False,,12.87,AVG_PERF,2.01,27.12,12.25,False,False,False,False,False,175,2,Banks,50.37,False,False,,False,False,False,False,CMA,Financials,Comerica
+False,False,False,,False,,7.31,AVG_PERF,8.73,21.06,5.02,False,False,False,False,False,9,2,Homebuilders,27.59,False,False,,False,False,False,False,PHM,Consumer Discretionary,PulteGroup
+False,False,False,,False,,12.31,OUT_PERF,12.8,31.78,6.67,False,False,False,False,False,107,2,Utilities,67.35,False,False,,False,False,False,False,ATO,Utilities,Atmos Energy
+False,False,False,,False,,10.52,UNDER_PERF,0.07,18.27,7.68,False,False,False,False,False,39,2,Media,18.59,False,False,,False,False,False,False,OMC,Communication Services,Omnicom Group
+False,False,False,,False,,11.96,AVG_PERF,0.72,22,9.31,False,False,False,False,False,89,3,Diversified Financials,30.84,False,False,,False,False,False,False,MS,Financials,Morgan Stanley
+False,False,False,,False,,16.45,OUT_PERF,11.7,32.92,4.77,False,False,False,False,False,94,2,Food Products,71.08,False,False,,False,False,False,False,CAG,Consumer Staples,Conagra Brands
+False,False,False,,False,,9.01,UNDER_PERF,0.82,16.45,6.62,False,False,False,False,False,105,2,Software & Services,13.39,False,False,,False,False,False,False,BR,Information Technology,Broadridge Financial Solutions
+False,False,False,,False,,6.12,UNDER_PERF,1.85,16.91,8.95,False,False,False,False,False,97,2,Insurance,14.65,False,False,,False,False,False,False,LNC,Financials,Lincoln National
+False,False,False,,False,,4.15,UNDER_PERF,2.28,12.02,5.59,False,False,False,False,False,55,1,Technology Hardware,4.24,False,False,,False,False,False,False,WDC,Information Technology,Western Digital
+False,False,False,,False,,2.62,UNDER_PERF,3.84,11.6,5.13,False,False,False,False,False,31,1,Semiconductors,3.71,False,False,,False,False,False,False,AMAT,Information Technology,Applied Materials
+False,False,False,,False,,5.99,UNDER_PERF,0.02,11.65,5.65,False,False,False,False,False,61,2,Healthcare,2.83,False,False,,False,False,False,False,CI,Health Care,Cigna
+False,False,False,,False,,9.83,AVG_PERF,1.97,22.79,10.99,False,False,False,False,False,89,3,Diversified Financials,33.78,False,False,,False,False,False,False,BK,Financials,BNY Mellon
+False,False,False,,False,,7.35,UNDER_PERF,1.06,13.13,4.73,False,False,False,False,False,105,0,Software & Services,6.09,False,False,,False,False,False,False,CDNS,Information Technology,Cadence Design Systems
+False,False,False,,False,,7.98,UNDER_PERF,1.68,16.56,6.9,False,False,False,False,False,89,2,Diversified Financials,13.7,False,False,,False,False,False,False,ICE,Financials,Intercontinental Exchange
+False,False,False,,False,,5.48,UNDER_PERF,3.41,14.6,5.72,False,False,False,False,False,17,1,Traders & Distributors,8.93,False,False,,False,False,False,True,GWW,Industrials,W. W. Grainger
+False,False,False,,False,,7.67,UNDER_PERF,0.67,15.53,7.19,False,False,False,False,True,58,2,Healthcare,10.97,False,False,,False,False,False,False,LH,Health Care,LabCorp
+False,False,False,,False,,7.32,UNDER_PERF,7.75,18.55,3.48,False,False,False,False,False,39,2,Refiners & Pipelines,19.48,False,False,,False,False,False,False,KMI,Energy,Kinder Morgan
+False,False,False,,False,,7.92,AVG_PERF,1.56,20.85,11.37,False,False,False,False,False,97,1,Insurance,26.96,False,False,,False,False,False,False,GL,Financials,Globe Life
+False,False,False,,False,,18.47,OUT_PERF,7.18,34.28,8.62,False,False,False,False,False,54,4,Machinery,75.25,False,False,,False,False,False,False,CAT,Industrials,Caterpillar
+False,False,False,,False,,15.4,OUT_PERF,1.94,32.84,15.51,False,False,False,False,False,175,5,Banks,70.84,False,False,,False,False,False,False,WFC,Financials,Wells Fargo
+False,False,False,,False,,14.05,AVG_PERF,5.03,24.32,5.25,False,False,False,False,False,45,3,Consumer Services,39.54,False,False,,False,False,False,False,CMG,Consumer Discretionary,Chipotle Mexican Grill
+False,False,True,,False,,8.96,AVG_PERF,13.01,28.24,6.27,False,False,False,True,False,107,2,Utilities,54.55,False,False,,False,False,False,False,D,Utilities,Dominion Energy
+False,False,False,,False,,11.34,AVG_PERF,9.27,29.57,8.96,False,False,False,False,False,37,3,Automobiles,59.71,False,False,,False,False,False,False,F,Consumer Discretionary,Ford
+False,False,False,,False,,8.39,AVG_PERF,1.75,21.16,11.02,False,False,False,False,False,97,2,Insurance,27.86,False,False,,False,False,False,False,PGR,Financials,Progressive Corporation
+False,False,False,,False,,5.07,UNDER_PERF,3.68,12.53,3.78,False,False,False,False,False,57,2,Retailing,5.04,False,False,,False,False,False,False,GPC,Consumer Discretionary,Genuine Parts
+False,False,True,,False,,5.78,AVG_PERF,9.8,21.01,5.43,False,False,False,True,False,107,2,Utilities,27.44,False,False,,False,False,False,False,CMS,Utilities,CMS Energy
+False,False,False,,False,,9.22,UNDER_PERF,1.37,15.45,4.87,False,False,False,False,False,105,0,Software & Services,10.77,False,False,,False,False,False,False,ADSK,Information Technology,Autodesk
+False,False,False,,False,,12.11,AVG_PERF,4.56,24.8,8.13,False,False,False,False,False,68,2,Telecommunication Services,41.42,False,False,,False,False,False,False,CMCSA,Communication Services,Comcast
+False,False,False,,False,,13.46,AVG_PERF,0.05,23.22,9.71,False,False,False,False,False,89,4,Diversified Financials,35.37,False,False,,False,False,False,False,COF,Financials,Capital One Financial
+False,False,False,,False,,4.11,UNDER_PERF,2.53,12.77,6.13,False,False,False,False,False,31,2,Semiconductors,5.4,False,False,,False,False,False,False,NVDA,Information Technology,Nvidia
+False,False,False,,False,,7,AVG_PERF,16.39,29.18,5.79,False,False,False,False,False,39,3,Refiners & Pipelines,58.26,False,False,,False,False,False,False,PSX,Energy,Phillips 66
+False,False,False,,False,,6.21,UNDER_PERF,2.13,14.59,6.24,False,False,False,False,False,89,1,Diversified Financials,8.89,False,False,,False,False,False,False,CME,Financials,CME Group
+False,False,False,,False,,4.97,UNDER_PERF,4.08,12.87,3.81,False,False,False,False,False,57,2,Retailing,5.57,False,False,,False,False,False,False,LKQ,Consumer Discretionary,LKQ Corporation
+False,True,False,,False,,6.72,UNDER_PERF,1.31,14.07,6.03,False,False,True,False,True,105,1,Software & Services,8.01,False,False,,False,False,False,False,LDOS,Industrials,Leidos
+False,False,False,,False,,8.13,UNDER_PERF,7.94,19.95,3.88,False,False,False,False,False,45,2,Consumer Services,23.8,False,False,,False,False,False,False,HLT,Consumer Discretionary,Hilton Worldwide
+False,False,False,,False,,8.97,OUT_PERF,17.74,34.41,7.7,False,False,False,False,False,66,2,Oil & Gas Producers,75.74,False,False,,False,False,False,False,DVN,Energy,Devon Energy
+False,True,False,,False,,17.85,OUT_PERF,12.84,38.98,8.29,False,False,False,False,False,22,2,Aerospace & Defense,85.86,False,False,,False,False,False,False,TDG,Industrials,TransDigm Group
+False,False,False,,False,,6.03,UNDER_PERF,1.55,14.24,6.66,False,True,False,False,True,83,3,Pharmaceuticals,8.32,False,False,,False,False,False,False,TMO,Health Care,Thermo Fisher Scientific
+False,False,False,,False,,9.08,AVG_PERF,13.1,27.45,5.27,False,False,False,False,False,107,1,Utilities,51.63,False,False,,False,False,False,False,AWK,Utilities,American Water Works
+False,False,False,,False,,7.56,UNDER_PERF,2.17,14.79,5.06,False,False,False,False,False,57,3,Retailing,9.26,False,False,,False,False,False,False,TGT,Consumer Discretionary,Target Corporation
+False,False,False,,False,,7.69,AVG_PERF,9.32,24.51,7.49,False,False,False,False,True,77,1,Chemicals,40.31,False,False,,False,False,False,False,PPG,Materials,PPG Industries
+False,False,False,,False,,5.03,UNDER_PERF,2.36,12.14,4.74,False,False,False,False,False,35,2,Food Retailers,4.36,False,False,,False,False,False,False,SYY,Consumer Staples,Sysco
+False,False,False,,False,,4.25,UNDER_PERF,2.75,12.98,5.97,False,False,False,False,False,108,1,Real Estate,5.78,False,False,,False,False,False,False,VNO,Real Estate,Vornado Realty Trust
+False,False,False,,False,,2.92,UNDER_PERF,5.21,13.2,5.06,False,False,False,False,False,108,0,Real Estate,6.19,False,False,,False,False,False,False,CCI,Real Estate,Crown Castle
+False,False,False,,False,,9.33,UNDER_PERF,0.93,16.71,6.45,False,False,False,False,False,105,2,Software & Services,14.07,False,False,,False,False,False,False,EBAY,Consumer Discretionary,eBay
+False,False,False,,False,,14.63,OUT_PERF,13.09,34.47,6.75,False,False,False,False,True,94,3,Food Products,75.81,False,False,,False,False,False,False,KHC,Consumer Staples,Kraft Heinz
+False,False,True,,False,,6.57,AVG_PERF,12.63,23.7,4.5,False,False,False,True,False,107,2,Utilities,37.05,False,False,,False,False,False,False,XEL,Utilities,Xcel Energy
+False,False,False,,False,,11.47,AVG_PERF,1.62,22.9,9.81,False,False,False,False,False,39,3,Media,34.29,False,False,,False,False,False,False,DISH,Communication Services,Dish Network
+False,False,False,,False,,5.9,UNDER_PERF,1.51,12.17,4.75,False,False,False,False,True,58,3,Healthcare,4.42,False,False,,False,False,False,False,CAH,Health Care,Cardinal Health
+False,False,False,,False,,9.17,UNDER_PERF,0.1,12.97,3.7,False,False,False,False,False,57,2,Retailing,5.74,False,False,,False,False,False,False,AAP,Consumer Discretionary,Advance Auto Parts
+False,False,False,,False,,7.73,UNDER_PERF,2.67,16.58,6.18,False,False,False,False,False,55,1,Technology Hardware,13.73,False,False,,False,False,False,False,NTAP,Information Technology,NetApp
+False,False,False,,False,,8.06,UNDER_PERF,0.46,13.26,4.73,False,False,False,False,False,105,3,Software & Services,6.32,False,False,,False,False,False,False,MSFT,Information Technology,Microsoft
+False,False,False,,False,,16.8,OUT_PERF,8.17,35.14,10.17,False,False,False,False,False,24,2,Construction & Engineering,77.59,False,False,,False,False,False,False,PWR,Industrials,Quanta Services
+False,False,True,,False,,7.12,AVG_PERF,13.41,25.56,5.03,False,False,False,True,False,107,2,Utilities,44.36,False,False,,False,False,False,False,DTE,Utilities,DTE Energy
+False,False,False,,False,,4.86,OUT_PERF,18.55,32.28,8.86,False,False,False,False,False,15,2,Construction Materials,69.03,False,False,,False,False,False,False,MLM,Materials,Martin Marietta Materials
+False,False,False,,False,,8.91,OUT_PERF,16.08,32.3,7.32,False,False,False,False,False,31,0,Semiconductors,69.12,False,False,,False,False,False,False,QRVO,Information Technology,Qorvo
+False,False,False,,False,,16.53,AVG_PERF,4.8,29.01,7.67,False,False,False,False,True,58,2,Healthcare,57.59,False,False,,False,False,False,False,TFX,Health Care,Teleflex
+False,False,False,,False,,10.42,AVG_PERF,3.15,20.12,6.55,False,False,False,False,True,58,1,Healthcare,24.4,False,False,,False,False,False,False,XRAY,Health Care,Dentsply Sirona
+False,False,False,,False,,10.35,UNDER_PERF,1.93,19.94,7.66,False,False,False,False,False,105,1,Software & Services,23.77,False,False,,False,False,False,False,AKAM,Information Technology,Akamai Technologies
+False,False,False,,False,,8.35,UNDER_PERF,1.66,16.88,6.86,False,False,False,False,False,55,2,Technology Hardware,14.54,False,False,,False,False,False,False,JNPR,Information Technology,Juniper Networks
+False,False,False,,False,,5.46,UNDER_PERF,4.04,14.25,4.75,False,False,False,False,False,108,0,Real Estate,8.34,False,False,,False,False,False,False,O,Real Estate,Realty Income Corporation
+False,False,False,,False,,7.3,UNDER_PERF,6.31,19.68,6.08,False,False,False,False,False,19,1,Electrical Equipment,22.97,False,False,,False,False,False,False,ROK,Industrials,Rockwell Automation
+False,False,False,,False,,7.1,UNDER_PERF,0.07,14.4,7.24,False,False,False,False,False,39,2,Media,8.61,False,False,,False,False,False,False,DIS,Communication Services,The Walt Disney Company
+False,True,False,,False,,13.68,AVG_PERF,9.2,29.2,6.32,False,False,False,False,False,54,2,Machinery,58.4,False,False,,False,False,False,False,PH,Industrials,Parker-Hannifin
+False,False,False,,False,,7.18,UNDER_PERF,0.58,13.06,5.3,False,False,False,False,False,83,1,Pharmaceuticals,5.93,False,False,,False,False,False,False,MTD,Health Care,Mettler Toledo
+False,False,False,,False,,5.33,UNDER_PERF,0.05,10.44,5.07,False,False,False,False,False,19,2,Consumer Durables,2.5,False,False,,False,False,False,False,HAS,Consumer Discretionary,Hasbro
+False,False,False,,False,,7.14,AVG_PERF,12.09,24.72,5.5,False,False,False,False,False,107,3,Utilities,41.16,False,False,,False,False,False,False,SRE,Utilities,Sempra Energy
+False,False,False,,False,,11.76,AVG_PERF,4.13,22.71,6.82,False,False,False,False,False,32,1,Commercial Services,33.47,False,False,,False,False,False,False,CPRT,Industrials,Copart
+False,False,False,,False,,7.01,AVG_PERF,15.91,28.78,5.87,False,False,False,False,False,39,3,Refiners & Pipelines,56.66,False,False,,False,False,False,False,MPC,Energy,Marathon Petroleum
+False,False,False,,False,,3.8,UNDER_PERF,1.59,10.66,5.26,False,False,False,False,False,55,1,Technology Hardware,2.13,False,False,,False,False,False,False,STX,Information Technology,Seagate Technology
+False,False,False,,False,,6.34,UNDER_PERF,1.5,16.38,8.53,False,False,False,False,False,97,2,Insurance,13.2,False,False,,False,False,False,False,HIG,Financials,The Hartford
+False,False,False,,False,,18.01,AVG_PERF,0.74,27.29,8.53,False,True,False,False,True,83,4,Pharmaceuticals,50.91,False,False,,False,False,False,False,JNJ,Health Care,Johnson & Johnson
+False,False,False,,False,,5.52,UNDER_PERF,0.13,10.36,4.72,False,False,False,False,False,105,2,Software & Services,2.42,False,False,,False,False,False,False,EA,Communication Services,Electronic Arts
+False,False,False,,False,,10.54,OUT_PERF,18.5,34.5,5.45,False,False,False,False,False,27,4,Diversified Metals,75.88,False,False,,False,False,False,False,FCX,Materials,Freeport-McMoRan
+False,False,False,,False,,8.16,UNDER_PERF,4.8,19.05,6.09,False,False,False,False,False,107,2,Utilities,20.93,False,False,,False,False,False,False,ES,Utilities,Eversource Energy
+False,False,False,,False,,9.27,AVG_PERF,9.14,23.8,5.39,False,False,False,False,False,94,2,Food Products,37.46,False,True,,False,False,False,False,STZ,Consumer Staples,Constellation Brands
+False,False,False,,False,,6.36,OUT_PERF,18.44,31.78,6.97,False,False,False,False,False,66,2,Oil & Gas Producers,67.33,False,False,,False,False,False,False,HES,Energy,Hess Corporation
+False,False,False,,False,,4.82,UNDER_PERF,0.73,14.74,9.2,False,False,False,False,False,97,2,Insurance,9.19,False,False,,False,False,False,False,MET,Financials,MetLife
+False,False,False,,False,,13.05,AVG_PERF,1.25,24.98,10.68,False,False,False,False,False,89,3,Diversified Financials,42.06,False,False,,False,False,False,False,GS,Financials,Goldman Sachs
+False,False,False,,False,,9.94,AVG_PERF,8.24,23.22,5.05,False,False,False,False,False,15,3,Precious Metals,35.38,False,False,,False,False,False,False,NEM,Materials,Newmont
+False,False,False,,False,,6.67,UNDER_PERF,0.47,14.77,7.64,False,False,False,False,False,105,2,Software & Services,9.23,False,False,,False,False,False,False,IBM,Information Technology,IBM
+False,False,True,,False,,8.31,OUT_PERF,20.79,35.05,5.95,False,False,False,False,False,107,2,Utilities,77.35,False,False,,False,False,False,False,AES,Utilities,AES Corp
+False,False,False,,False,,9.17,AVG_PERF,4.38,20.1,6.54,False,False,False,False,False,54,2,Machinery,24.31,False,False,,False,False,False,False,ITW,Industrials,Illinois Tool Works
+False,False,False,,False,,12.92,OUT_PERF,10.28,30.89,7.69,False,False,False,False,False,37,4,Automobiles,64.42,False,False,,False,False,False,False,GM,Consumer Discretionary,General Motors
+False,False,False,,False,,8.66,AVG_PERF,8.96,25.42,7.8,False,False,False,False,False,31,3,Semiconductors,43.74,False,False,,False,False,False,False,AVGO,Information Technology,Broadcom
+False,False,False,,False,,9.61,AVG_PERF,4.54,21.41,7.26,False,False,False,False,False,32,2,Commercial Services,28.74,False,False,,False,False,False,False,CTAS,Industrials,Cintas Corporation
+False,False,False,,False,,7.64,OUT_PERF,15.42,30.53,7.47,False,False,False,False,True,77,2,Chemicals,63.15,False,False,,False,False,False,False,CE,Materials,Celanese
+False,False,False,,False,,10.43,UNDER_PERF,1.11,17.47,5.92,False,False,False,False,False,105,2,Software & Services,16.17,False,False,,False,False,False,False,CTSH,Information Technology,Cognizant Technology Solutions
+False,False,False,,False,,5.59,UNDER_PERF,0.03,11.83,6.21,False,False,False,False,False,55,2,Technology Hardware,4.01,False,False,,False,False,False,False,CSCO,Information Technology,Cisco Systems
+False,False,False,,False,,4.56,UNDER_PERF,1.81,11.93,5.56,False,False,False,False,False,89,2,Diversified Financials,4.12,False,False,,False,False,False,False,NDAQ,Financials,Nasdaq
+False,False,False,,False,,7.02,UNDER_PERF,1.29,14.24,5.93,False,False,False,False,False,105,3,Software & Services,8.31,False,False,,False,False,False,False,WU,Information Technology,Western Union
+False,False,False,,False,,9.47,UNDER_PERF,0.7,15.23,5.06,False,False,False,False,False,105,2,Software & Services,10.24,False,False,,False,False,False,False,NLOK,Information Technology,NortonLifeLock
+False,False,False,,False,,6.27,UNDER_PERF,2.98,15.15,5.9,False,False,False,False,False,108,0,Real Estate,10.03,False,False,,False,False,False,False,ARE,Real Estate,Alexandria Real Estate Equities
+False,False,False,,False,,13,AVG_PERF,2.75,25.84,10.09,False,False,False,False,True,58,2,Healthcare,45.49,False,False,,False,False,False,False,BSX,Health Care,Boston Scientific
+False,False,False,,False,,11.98,AVG_PERF,3.55,26.5,10.98,False,False,False,False,False,45,3,Consumer Services,48.04,True,False,,False,False,False,False,WYNN,Consumer Discretionary,Wynn Resorts
+False,False,False,,False,,10.5,AVG_PERF,3.65,22.87,8.72,False,False,False,False,True,94,3,Food Products,34.15,False,False,,False,False,True,False,PM,Consumer Staples,Philip Morris International
+False,False,False,,False,,6.01,AVG_PERF,11.69,21.07,3.38,False,False,False,False,False,32,3,Commercial Services,27.64,False,False,,False,False,False,False,RSG,Industrials,Republic Services
+False,False,False,,False,,14.42,AVG_PERF,2.11,25.43,8.9,False,False,False,False,False,105,2,Software & Services,43.82,False,False,,False,False,False,False,EXPE,Consumer Discretionary,Expedia Group
+False,False,True,,False,,10.64,OUT_PERF,15.68,33.46,7.14,False,False,False,True,False,107,2,Utilities,72.65,False,False,,False,False,False,False,SO,Utilities,Southern Company
+False,False,False,,False,,13.54,OUT_PERF,17.86,38.66,7.25,False,False,False,False,True,77,2,Chemicals,85.34,False,False,,True,False,False,False,FMC,Materials,FMC Corporation
+False,False,False,,False,,7.21,UNDER_PERF,2.03,14.84,5.61,False,False,False,False,False,57,2,Retailing,9.36,False,False,,False,False,False,False,TJX,Consumer Discretionary,TJX Companies
+False,False,False,,False,,3.52,UNDER_PERF,3.25,11.92,5.15,False,False,False,False,False,55,0,Technology Hardware,4.11,False,False,,False,False,False,False,IPGP,Information Technology,IPG Photonics
+False,False,False,,False,,8.88,OUT_PERF,21.98,38.81,7.96,False,False,False,False,False,71,2,Oil & Gas Producers,82.83,False,False,,False,False,False,False,APA,Energy,APA Corporation
+False,False,False,,False,,12.48,UNDER_PERF,0.15,19.12,6.49,False,False,False,False,False,105,4,Software & Services,21.2,False,False,,False,False,False,False,ATVI,Communication Services,Activision Blizzard
+False,False,False,,False,,16.39,AVG_PERF,0.03,22.86,6.44,False,False,False,False,False,58,3,Healthcare,34.12,False,False,,False,False,False,False,CVS,Health Care,CVS Health
+False,False,False,,False,,14.37,AVG_PERF,1.62,27.27,11.28,False,False,False,False,False,175,3,Banks,50.84,False,False,,False,False,False,False,BAC,Financials,Bank of America
+False,False,True,,False,,9.63,OUT_PERF,17.39,34.08,7.06,False,False,False,False,False,107,3,Utilities,74.51,False,False,,False,False,False,False,FE,Utilities,FirstEnergy
+False,False,False,,False,,9.69,UNDER_PERF,1.26,16.19,5.24,False,False,False,False,False,105,2,Software & Services,12.63,False,False,,False,False,False,False,DXC,Information Technology,DXC Technology
+False,False,False,,False,,1.28,UNDER_PERF,5.94,10.81,3.59,False,False,False,False,False,77,1,Chemicals,2.86,False,False,,False,False,False,False,APD,Materials,Air Products & Chemicals
+False,False,False,,False,,5.24,UNDER_PERF,7.3,19.42,6.87,False,True,False,False,False,55,2,Technology Hardware,22.08,False,False,,False,False,False,False,GLW,Information Technology,Corning
+False,False,False,,False,,6.61,UNDER_PERF,8.18,19.85,5.06,False,False,False,False,False,31,1,Semiconductors,23.47,False,False,,False,False,False,False,NXPI,Information Technology,NXP
+False,False,False,,False,,13.08,AVG_PERF,3.9,21.68,4.7,False,False,False,False,False,45,3,Consumer Services,29.73,False,False,,False,False,False,False,YUM,Consumer Discretionary,Yum! Brands
+False,False,False,,False,,8.56,UNDER_PERF,3.27,17.11,5.28,False,False,False,False,False,57,2,Retailing,15.11,False,False,,False,False,False,False,DG,Consumer Discretionary,Dollar General
+False,False,False,,False,,2.53,AVG_PERF,13.92,20.03,3.56,False,False,False,False,False,11,2,Containers & Packaging,24.06,False,False,,False,False,False,False,SEE,Materials,Sealed Air
+False,False,False,,False,,4.51,UNDER_PERF,6.65,16.09,4.93,False,False,False,False,False,55,0,Technology Hardware,12.34,False,False,,False,False,False,False,TEL,Information Technology,TE Connectivity
+False,False,False,,False,,5.77,UNDER_PERF,1.57,12.69,5.35,False,False,False,False,False,89,1,Diversified Financials,5.26,False,False,,False,False,False,False,SPGI,Financials,S&P Global
+False,False,False,,False,,6.83,UNDER_PERF,0.94,12.73,4.96,False,False,False,False,False,19,2,Textiles & Apparel,5.33,False,False,,False,False,False,False,VFC,Consumer Discretionary,VF Corporation
+False,False,False,,False,,18.63,AVG_PERF,0.16,25.71,6.93,False,False,False,False,False,32,4,Commercial Services,45,False,False,,False,False,False,False,EFX,Industrials,Equifax
+False,False,False,,False,,11.87,AVG_PERF,1.62,24.16,10.67,False,False,False,False,False,97,2,Insurance,38.95,False,False,,False,False,False,False,CB,Financials,Chubb
+False,False,False,,False,,7.77,AVG_PERF,8.05,22.24,6.42,False,False,False,False,True,28,2,Household Products,31.66,False,False,,False,False,False,False,KMB,Consumer Staples,Kimberly-Clark
+False,False,False,,False,,10.31,AVG_PERF,9.31,26.97,7.36,False,False,False,False,True,28,3,Household Products,49.73,False,False,,False,False,False,False,PG,Consumer Staples,Procter & Gamble
+False,False,False,,False,,10.57,AVG_PERF,10.49,27.43,6.36,False,False,False,True,False,107,3,Utilities,51.53,False,False,,False,False,False,False,EIX,Utilities,Edison International
+False,False,False,,False,,3.74,UNDER_PERF,5.5,14.51,5.27,False,False,False,False,False,108,1,Real Estate,8.81,False,False,,False,False,False,False,MAA,Real Estate,Mid-America Apartments
+False,False,False,,False,,11.14,AVG_PERF,1.89,23.31,10.28,False,False,False,False,False,175,1,Banks,35.75,False,False,,False,False,False,False,KEY,Financials,KeyCorp
+False,False,False,,False,,13.15,AVG_PERF,2.27,22.17,6.76,False,False,False,False,False,68,3,Telecommunication Services,31.43,False,False,,False,False,False,False,T,Communication Services,AT&T
+False,False,False,,False,,4.56,AVG_PERF,15.61,29.22,9.05,False,False,False,False,False,15,2,Construction Materials,58.45,False,False,,False,False,False,False,VMC,Materials,Vulcan Materials
+False,False,False,,False,,14.04,AVG_PERF,0.03,22.08,8.01,False,False,False,False,True,83,2,Pharmaceuticals,31.13,False,False,,False,False,False,False,GILD,Health Care,Gilead Sciences
+False,False,False,,False,,7.38,UNDER_PERF,1.39,14.39,5.63,False,False,False,False,False,19,2,Textiles & Apparel,8.59,False,False,,False,False,False,False,HBI,Consumer Discretionary,Hanesbrands
+False,False,True,,False,,7.54,AVG_PERF,13.85,27.06,5.67,False,False,False,True,False,107,2,Utilities,50.09,False,False,,False,False,False,False,NEE,Utilities,NextEra Energy
+False,False,False,,False,,16.16,AVG_PERF,2.78,28.54,9.61,False,False,False,False,False,37,3,Automobiles,55.73,False,False,,False,False,False,False,TSLA,Consumer Discretionary,Tesla
+False,False,False,,False,,11.83,AVG_PERF,9.48,26.46,5.15,False,False,False,False,False,46,2,Transportation,47.89,False,False,,False,False,False,False,DAL,Industrials,Delta Air Lines
+False,False,False,,False,,7.26,UNDER_PERF,0.47,17.3,9.57,False,False,False,False,False,97,2,Insurance,15.64,False,False,,False,False,False,False,AFL,Financials,Aflac
+False,False,False,,False,,7.43,UNDER_PERF,2.85,19.55,9.28,False,False,False,False,False,89,2,Diversified Financials,22.55,False,False,,False,False,False,False,CBOE,Financials,Cboe Global Markets
+False,False,False,,False,,8.97,OUT_PERF,18.17,36.08,8.95,False,False,False,False,False,66,1,Oil & Gas Producers,80.42,False,False,,False,False,False,False,PXD,Energy,Pioneer Natural Resources
+False,False,False,,False,,11.5,UNDER_PERF,0.11,18.7,7.1,False,False,False,False,False,89,1,Diversified Financials,19.89,False,False,,False,False,False,False,SYF,Financials,Synchrony Financial
+False,False,False,,False,,6.53,UNDER_PERF,6.53,19.66,6.59,False,True,False,False,True,28,2,Household Products,22.91,False,False,,False,False,False,False,CHD,Consumer Staples,Church & Dwight
+False,False,False,,False,,9.08,AVG_PERF,9.46,23.72,5.18,False,False,False,False,True,94,3,Food Products,37.16,False,False,,False,False,False,False,MDLZ,Consumer Staples,Mondelez International
+False,False,False,,False,,9.14,UNDER_PERF,1.17,15.52,5.21,False,False,False,False,False,19,3,Textiles & Apparel,10.9,False,False,,False,False,False,False,PVH,Consumer Discretionary,PVH
+False,False,False,,False,,12.38,AVG_PERF,3.36,26.46,10.71,False,False,False,False,True,58,1,Healthcare,47.9,False,False,,False,False,False,False,RMD,Health Care,ResMed
+False,False,False,,False,,6.54,UNDER_PERF,2.34,13.31,4.43,False,False,False,False,False,105,2,Software & Services,6.44,False,False,,False,False,False,False,CRM,Information Technology,Salesforce
+False,False,False,,False,,5.76,UNDER_PERF,0.03,11.59,5.8,False,False,False,False,False,58,2,Healthcare,3.71,False,False,,False,False,False,False,ANTM,Health Care,Anthem
+False,False,False,,False,,10.52,UNDER_PERF,0.97,16.5,5,False,False,False,False,False,105,2,Software & Services,13.54,False,False,,False,False,False,False,INTU,Information Technology,Intuit
+False,False,False,,False,,3.18,UNDER_PERF,7.31,15.68,5.19,False,False,False,False,False,14,2,Building Products,11.44,False,False,,False,False,False,False,TT,Industrials,Trane Technologies
+False,False,False,,False,,4.99,UNDER_PERF,0.16,10.26,5.11,False,False,False,False,True,55,2,Technology Hardware,2.33,False,False,,False,False,False,False,HPQ,Information Technology,HP
+False,False,False,,False,,11.61,AVG_PERF,7.12,25.2,6.47,False,False,False,False,False,54,2,Machinery,42.98,False,False,,False,False,False,False,AOS,Industrials,A. O. Smith
+False,False,False,,False,,13.1,AVG_PERF,5.57,26.38,7.71,False,False,False,False,False,68,2,Telecommunication Services,47.63,False,False,,False,False,False,False,CHTR,Communication Services,Charter Communications
+False,False,False,,False,,5.64,UNDER_PERF,3.25,13.78,4.9,False,False,False,False,False,108,1,Real Estate,7.37,False,False,,False,False,False,False,HST,Real Estate,Host Hotels & Resorts
+False,True,False,,False,,19.52,OUT_PERF,8.48,34.88,6.87,False,False,True,False,True,22,3,Aerospace & Defense,76.91,False,False,,False,False,False,True,GD,Industrials,General Dynamics
+False,True,False,,False,,5.52,AVG_PERF,8.04,21.6,8.04,False,False,False,False,False,55,2,Technology Hardware,29.39,False,False,,False,False,False,False,APH,Information Technology,Amphenol
+False,False,False,,False,,13.08,AVG_PERF,3.01,27.71,11.63,False,False,False,False,False,45,2,Consumer Services,52.62,True,False,,False,False,False,False,MGM,Consumer Discretionary,MGM Resorts International
+False,False,False,,False,,16.9,AVG_PERF,0.06,22.98,6.02,False,False,False,False,False,32,1,Commercial Services,34.56,False,False,,False,False,False,False,NLSN,Industrials,Nielsen Holdings
+False,False,False,,False,,4.15,UNDER_PERF,5.32,13.75,4.27,False,False,False,False,False,19,2,Consumer Durables,7.31,False,False,,False,False,False,False,MHK,Consumer Discretionary,Mohawk Industries
+False,False,False,,False,,6.83,UNDER_PERF,6.74,18.17,4.61,False,False,False,False,False,19,2,Consumer Durables,18.29,False,False,,False,False,False,False,WHR,Consumer Discretionary,Whirlpool Corporation
+False,False,False,,False,,7.97,UNDER_PERF,0.68,14.57,5.92,False,False,False,False,False,105,2,Software & Services,8.88,False,False,,False,False,False,False,CTXS,Information Technology,Citrix Systems
+False,False,False,,False,,9.76,UNDER_PERF,1.38,17.73,6.59,False,True,False,False,True,83,2,Pharmaceuticals,17.01,False,False,,False,False,False,False,DHR,Health Care,Danaher Corporation
+False,False,False,,False,,9.36,AVG_PERF,8.44,24.33,6.53,False,False,False,False,False,10,1,Energy Services,39.58,False,False,,False,False,False,False,SLB,Energy,Schlumberger
+False,False,False,,False,,7.23,UNDER_PERF,3.83,16.07,5.01,False,False,False,False,False,57,2,Retailing,12.3,False,False,,False,False,False,False,ULTA,Consumer Discretionary,Ulta Beauty
+False,True,False,,False,,9.95,AVG_PERF,10.63,29.12,8.54,False,False,True,False,False,35,3,Industrial Conglomerates,58.03,False,False,,False,False,False,False,HON,Industrials,Honeywell
+False,False,False,,False,,17.22,AVG_PERF,0.15,25.05,7.68,False,True,False,False,True,83,2,Pharmaceuticals,42.32,False,False,,False,False,False,False,VRTX,Health Care,Vertex Pharmaceuticals
+False,False,False,,False,,7.32,UNDER_PERF,0.86,13.16,4.97,False,False,False,False,False,105,0,Software & Services,6.14,False,False,,False,False,False,False,ANSS,Information Technology,Ansys
